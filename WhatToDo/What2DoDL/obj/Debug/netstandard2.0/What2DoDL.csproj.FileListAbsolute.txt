@@ -1,0 +1,9 @@
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\bin\Debug\netstandard2.0\What2DoDL.deps.json
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\bin\Debug\netstandard2.0\What2DoDL.dll
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\bin\Debug\netstandard2.0\What2DoDL.pdb
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.csprojAssemblyReference.cache
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.AssemblyInfoInputs.cache
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.AssemblyInfo.cs
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.csproj.CoreCompileInputs.cache
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.dll
+C:\Users\irene\Source\Repos\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.pdb

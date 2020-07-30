@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Modal Dialog</title>
+  <link rel="stylesheet" href="css/modal.css">
+</head>
+<body>
+  <div id="overlay" class="overlay-on">I am visible</div>
+
+  <main>
+    <h1>Modal Dialog Box</h1>
+    <p>Regular web page content goes here.</p>
+    <button id="openButton" disabled>Open dialog</button>
+  </main>
+
+  <!-- Dialog box content -->
+  <div id="dialog" class="dialog-on">
+    <div id="titlebar">
+      <p class="titlebar-text">Modal Dialog</p>
+      <p id="xButton">X</p>
+    </div>
+    <div id="dialog-content">
+      <h2 class="dialog-title">Modal Dialog Box</h2>
+      <p>
+        This dialog box is modal. You have to close it
+        before you can continue using the page.
+      </p>
+    </div>
+    <footer id="dialog-footer">
+      <button id="closeButton">Close</button>
+    </footer>
+  </div>
+
+  <!-- End Content -->
+  <script src="js/modal.js"></script>
+</body>
+</html>

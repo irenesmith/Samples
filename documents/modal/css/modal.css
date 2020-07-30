@@ -1,0 +1,170 @@
+html {
+  font-size:62.5%;
+  margin: 0;
+  padding:0;
+}
+
+body {
+  background-color: #450dac;
+  color: white;
+  font-size: 1.6rem;
+  font-family: Arial, sans-serif;
+  height: 100%;
+  line-height: 1.5;
+  margin: 0;
+  width: 100%;
+}
+
+main {
+  margin: 0 auto;
+  padding-bottom:2rem;
+  max-width: 60rem;
+}
+
+main a:link {
+  color: #caa8f5;
+}
+
+main .code-listing {
+  background-color:white;
+  color: #230c33;
+  line-height: 1;
+  margin:0;
+  padding:1rem;
+}
+
+#dialog {
+  background-color: white;
+  box-shadow: 5px 5px 10px rgba(33, 33, 33, 0.5);
+  color: #230c33;
+  height: auto;
+  left: 35vw;
+  position: absolute;
+  top: 5vh;
+  width: 30vw;
+  z-index: 999;
+}
+
+.dialog-on {
+  display: block;
+}
+
+.dialog-off {
+  display: none;
+}
+
+#dialog form {
+  width:100%;
+}
+
+#titlebar {
+  background-color: #9984d4;
+  color: #230c33;
+  display: flex;
+  flex-direction: row;
+  height: 3rem;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.titlebar-text {
+  margin: 5px;
+}
+
+button {
+  padding:3px;
+}
+
+#xButton {
+  background-color: silver;
+  color: #230c33;
+  margin: 0;
+  padding: 5px;
+}
+
+#xButton:hover {
+  background-color: maroon;
+  color: white;
+}
+
+#dialog #dialog-footer {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0.5rem;
+}
+
+#dialog-content {
+  padding: 1rem;
+}
+
+.dialog-title {
+  border-bottom: 1px solid silver;
+  margin: 0;
+}
+
+#overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  bottom: 0;
+  color: transparent;
+  height: 100%;
+  left: 0;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 1s;
+  width: 100%;
+}
+
+.overlay-off {
+  display: none;
+}
+
+.overlay-on {
+  display: block;
+  z-index: 500;
+}
+
+.noScroll {
+  overflow: hidden;
+}
+
+.canScroll {
+  overflow:visible;
+}
+
+#page-footer {
+  background-color:white;
+  border-top: 1px solid silver;
+  bottom: 0;
+  color: #230c33;
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  left:0;
+  padding: 1rem;
+  position:fixed;
+  right:0;
+}
+
+#page-footer p {
+  margin: 0;
+  text-align: center;
+}
+
+ .fab {
+  font-size: 32px;
+ }
+
+ .fa-facebook {
+  color: #3b5998;
+ }
+
+ .fa-twitter {
+  color: #55acee;
+ }
+
+ .fa-linkedin {
+   color: #0077B5;
+ }

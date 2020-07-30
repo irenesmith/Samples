@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Stuff 2 Do</title>
+
+	<link href="/css/normalize.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Satisfy|Heebo" rel="stylesheet">
+	<link rel="stylesheet" href="./css/stuff2do.css">
+</head>
+<body>
+	<main>
+		<header>
+			<h1>Stuff 2 Do</h1>
+		</header>
+		<section>
+			<section id="list-col">
+				<table id="task-table">
+					<thead>
+						<tr>
+							<th>Status</th>
+							<th>Description</th>
+						</tr>
+					</thead>
+					<tbody id="todo-list">
+						
+					</tbody>
+				</table>
+			</section><!-- End of table column -->
+
+			<section id="form-col">
+				<form id="new-task">
+					<fieldset>
+						<legend>New Task Information</legend>
+						<div>
+							<input type="hidden" id="created" name="created">
+							<label class="form-label" for="status">Status</label><br>
+							<select id="status" name="status">
+								<option value="1">To Do</option>
+								<option value="2">In Progress</option>
+								<option value="3">Done</option>
+							</select>
+						</div>
+						<div>
+							<br>
+							<label class="form-label" for="description">Task Description</label><br>
+							<textarea id="description" name="description" rows="5"></textarea><br>
+						</div>
+						<div>
+							<br>
+							<input type="button" id="add-task" name="add-task" value="Add Task">
+							<input type="button" id="cancel" name="submit" value="Cancel">
+						</div>
+					</fieldset>					
+				</form>
+			</section><!-- End of Row -->
+		</section><!-- End of container -->
+		<p class="clear">&nbsp;</p>
+		<p class="centered">This is not a finished application. Use it at your own risk!</p>
+		<footer>
+			<p class="centered">Copyright &copy; 2017, Irene Smith. All rights reserved. Back to the <a href="http://irenesmith.com/index.html">Home Page</a></p>
+		</footer>
+	</main>
+	<!-- End of Content -->
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://use.fontawesome.com/f7f5ed24ed.js"></script>
+	<script src="./js/stuff2do.js"></script>
+</body>
+</html>

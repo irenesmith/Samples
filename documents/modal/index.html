@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Create a Modal Form</title>
+
+  <script src="https://kit.fontawesome.com/33e08446a2.js"></script>
+  <link rel="stylesheet" href="css/modal.css">
+</head>
+<body>
+  <!-- Web page content -->
+  <main>
+    <h1>Modal Dialog Box</h1>
+    <p>Regular web page content goes here.</p>
+    <p>
+      Sometimes you want to show a modal dialog box. You can add a
+      framework, like Bootstrap, but if you want to do it yourself,
+      how do you go about it?
+    </p>
+    <button id="openButton" disabled>Open dialog</button>
+    <h2>HTML/CSS</h2>
+    <p>
+      Look at the HTML for this page. The source is separated into two
+      sections:
+    </p>
+    <ol>
+      <li>
+        The main content for this page (the stuff you're reading now.)
+      </li>
+      <li>
+        The HTML markup for the dialog box and the overlay that darkens the
+        page content.
+      </li>
+    </ol>
+    <p>
+      The div element with whose id is <em>overlay</em> is responsible for
+      darkening the content of the page itself since the dialog box won't
+      completely cover it. This gives the user a visual clue that the focus
+      is on the dialog box and not the underlying page.
+    </p>
+    <p>
+      The <em>dialog</em> div contains all of the text and interface items for
+      the dialog box. You can put a form here or just information.
+    </p>
+    <h2>JavaScript</h2>
+    <p>
+      The JavaScript would be longer if I had written code to handle the form but
+      I think it's kind of cool that the script is only 27 lines long. Let's take
+      a look at it.
+    </p>
+    <div class="code-listing">
+      // Set up a variable for the dialog box<br>
+      const dialog = document.querySelector('#dialog');<br>
+      const overlay = document.querySelector('#overlay');<br>
+      <br>
+      window.onload = (e) => {<br>
+        // Scroll to the top of the page<br>
+        window.scrollTo(0, 0);<br>
+        // Disable scrolling<br>
+        document.querySelector('body').className = 'noScroll';<br>
+      };<br>
+      <br>
+      // Add event listeners for the buttons.<br>
+      document.querySelector('#xButton').addEventListener('click', closeDialog);<br>
+      document.querySelector('#closeButton').addEventListener('click', closeDialog);<br>
+      document.querySelector('#openButton').addEventListener('click', e => {<br>
+      &nbsp;&nbsp;document.querySelector('body').className = 'noScroll';<br>
+      &nbsp;&nbsp;overlay.className = 'overlay-on';<br>
+      &nbsp;&nbsp;dialog.className = 'dialog-on';<br>
+      &nbsp;&nbsp;document.querySelector('#openButton').disabled = true;<br>
+      });<br>
+      <br>
+      function closeDialog() {<br>
+      &nbsp;&nbsp;dialog.className = 'dialog-off';<br>
+      &nbsp;&nbsp;document.querySelector('#openButton').disabled = false;<br>
+      &nbsp;&nbsp;overlay.className = 'overlay-off';<br>
+      &nbsp;&nbsp;document.querySelector('body').className = 'canScroll';<br>
+      }
+    </div>
+    <p>
+      First we set up two constants; one for the dialog box and one for the
+      overlay that dims the background. These constants simplify the coding
+      that displays and hides the overlay and the dialog box.
+    </p>
+    <p>
+      Once that is done, we attach the two event listeners to the buttons that
+      call the show and hide code. Notice that the xButton (the close button in
+      the dialog box) and the Close button are both attached to the closeDialog
+      function.
+    </p>
+    <p>
+      The event listener, the handler, for the Open button works by adding the
+      classes to make the dialog and overlay visible. The "on" classes set the
+      display of those objects to block. Then the final line of the function
+      disables the Open button on the main page so you can't open the dialog
+      box while it is already visible.
+    </p>
+    <p>
+      The closeDialog function which handles clicks on either the button in the
+      dialog box or the X button in the dialog title, does the opposite of the
+      handler that opens the dialog box.
+    </p>
+    <h2>Conclusion</h2>
+    <p>
+      Maybe I went a little bit overboard with the CSS, considering that this is
+      just a demo, but you're welcome to download the whole thing, HTML, CSS,
+      and JavaScript. I've zipped it up to make it easier for you.
+    </p>
+    <p>
+      Download the <a href="modal.zip">zipped modal files</a> and have fun.
+    </p>
+  </main>
+  <footer id="page-footer">
+      <p>Return to <a href="../../">List of Examples</a></p>
+      <p>Copyright &copy; 2019, Irene P. Smith</p>
+      <p>
+        <a href="https://www.facebook.com/IrenePSmithAuthor/" target="_blank"><i class="fab fa-facebook"></i></a>&nbsp;
+        <a href="https://twitter.com/Story_Teller" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;
+        <a href="https://www.linkedin.com/in/irenesmith/" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;
+      </p>
+  </footer>
+  <!-- End Web page Content -->
+
+  <!-- Dialog box content -->
+  <div id="overlay" class="overlay-on">I am visible</div>
+
+  <div id="dialog" class="dialog-on">
+    <div id="titlebar">
+      <p class="titlebar-text">Modal Dialog</p>
+      <p id="xButton">X</p>
+    </div>
+    <div id="dialog-content">
+      <h2 class="dialog-title">Modal Dialog Box</h2>
+      <p>
+        This dialog box is modal. You have to close it
+        before you can continue using the page.
+      </p>
+      <h2>Fill out the form...</h2>
+      <p>The information here will not be used in any way.</p>
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name">
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+      </form>
+    </div>
+    <footer id="dialog-footer">
+      <button id="closeButton">Close</button>
+    </footer>
+  </div>
+
+  <!-- End Content -->
+  <script src="js/modal.js"></script>
+</body>
+</html>
