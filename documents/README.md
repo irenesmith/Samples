@@ -21,5 +21,5 @@ The documents included here are:
 
   **Document History**
   
-  [Screenshot of Document History](mousedown_event_history.jpg)
+  ![Screenshot of Document History](mousedown_event_history.jpg)
   
