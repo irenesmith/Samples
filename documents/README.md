@@ -12,11 +12,14 @@ The documents included here are:
 - MDN Web Docs page describing the event handler for the [Element: mousedown
   event](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event).
   The reference was written as part of an initiative to document all
-  event handlers. There has only been one edit to this page since I created
-  it in 2019 and that was to reformat one of the headings.
+  event handlers.
 
   The code is JavaScript and the page describes the event handler and then
   shows an example that lets the reader draw using the mouse. To keep the example
   simple, it only draws. There is no eraser and no ability to change the
   drawing color.
+
+  **Document History**
+  
+  [Screenshot of Document History](mousedown_event_history.jpg)
   
