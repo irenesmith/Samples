@@ -11,3 +11,15 @@ C:\Users\irene\Source\Repos\WhatToDo\WhatToDo\obj\Debug\WhatToDo.csproj.CopyComp
 C:\Users\irene\Source\Repos\WhatToDo\WhatToDo\obj\Debug\WhatToDo.exe
 C:\Users\irene\Source\Repos\WhatToDo\WhatToDo\obj\Debug\WhatToDo.pdb
 C:\Users\irene\Source\Repos\WhatToDo\WhatToDo\obj\Debug\WhatToDo.FormMain.resources
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\bin\Debug\WhatToDo.exe.config
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\bin\Debug\WhatToDo.exe
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\bin\Debug\WhatToDo.pdb
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\bin\Debug\What2DoDL.dll
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\bin\Debug\What2DoDL.pdb
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.csprojAssemblyReference.cache
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.FormMain.resources
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.Properties.Resources.resources
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.csproj.GenerateResource.cache
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.csproj.CopyComplete
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.exe
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.pdb

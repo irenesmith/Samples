@@ -12,14 +12,23 @@
 <body>
   <!-- Web page content -->
   <main>
+    <header>
+      <p>Name: <span id="username"></span></p>
+      <p>Email: <span id="useremail"></span></p>
+    </header>
     <h1>Modal Dialog Box</h1>
-    <p>Regular web page content goes here.</p>
     <p>
-      Sometimes you want to show a modal dialog box. You can add a
-      framework, like Bootstrap, but if you want to do it yourself,
-      how do you go about it?
+      There are a lot of reasons why you might want to have a modal
+      dialog box. A modal dialog is useful for getting information in
+      instances where the user has to fill it out before you can
+      continue executing a program.
+    </p>
+    <p>
+      You can add a framework, like Bootstrap, but if you want to do
+      it yourself, how do you go about it? It's easier than it looks.
     </p>
     <button id="openButton" disabled>Open dialog</button>
+    
     <h2>HTML/CSS</h2>
     <p>
       Look at the HTML for this page. The source is separated into two
@@ -27,33 +36,41 @@
     </p>
     <ol>
       <li>
-        The main content for this page (the stuff you're reading now.)
+        The main content for this page (the stuff you're reading now.) That's
+        everything between the comments: Web page content and End Web Page Content.
       </li>
       <li>
         The HTML markup for the dialog box and the overlay that darkens the
-        page content.
+        page content. Everything between: Dialog box content and End Dialog box content.
       </li>
     </ol>
     <p>
-      The div element with whose id is <em>overlay</em> is responsible for
-      darkening the content of the page itself since the dialog box won't
-      completely cover it. This gives the user a visual clue that the focus
-      is on the dialog box and not the underlying page.
+      The div element with the id <em>overlay</em> will darken the
+      content of the page itself since the dialog box won't completely cover it.
+      That gives the user a visual clue that the focus is on the dialog box and not
+      the underlying page.
     </p>
     <p>
-      The <em>dialog</em> div contains all of the text and interface items for
-      the dialog box. You can put a form here or just information.
+      The div element with the id <em>dialog</em> contains all of the text and interface
+      items for the dialog box. You can put a form here or just information. The choice
+      is up to you.
     </p>
     <h2>JavaScript</h2>
     <p>
-      The JavaScript would be longer if I had written code to handle the form but
-      I think it's kind of cool that the script is only 27 lines long. Let's take
-      a look at it.
+      The JavaScript for this dialog box is only 32 lines long if you don't count the
+      blank lines. Let's take a look at it.
     </p>
     <div class="code-listing">
-      // Set up a variable for the dialog box<br>
-      const dialog = document.querySelector('#dialog');<br>
-      const overlay = document.querySelector('#overlay');<br>
+      // Set up variables for the dialog box and its objects<br>
+      const dialog = document.getElementById('dialog');<br>
+      const overlay = document.getElementById('overlay');<br>
+      const name = document.getElementById('name');<br>
+      const email = document.getElementById('email');<br>
+      <br>
+      // The two spans on the main page that will contain the<br>
+      // values the user enters on the dialog box.<br>
+      const userName = document.getElementById('username');<br>
+      const userEmail = document.getElementById('useremail');<br>
       <br>
       window.onload = (e) => {<br>
         // Scroll to the top of the page<br>
@@ -63,9 +80,9 @@
       };<br>
       <br>
       // Add event listeners for the buttons.<br>
-      document.querySelector('#xButton').addEventListener('click', closeDialog);<br>
-      document.querySelector('#closeButton').addEventListener('click', closeDialog);<br>
-      document.querySelector('#openButton').addEventListener('click', e => {<br>
+      document.getElementById('xButton').addEventListener('click', closeDialog);<br>
+      document.getElementById('closeButton').addEventListener('click', closeDialog);<br>
+      document.getElementById('openButton').addEventListener('click', e => {<br>
       &nbsp;&nbsp;document.querySelector('body').className = 'noScroll';<br>
       &nbsp;&nbsp;overlay.className = 'overlay-on';<br>
       &nbsp;&nbsp;dialog.className = 'dialog-on';<br>
@@ -73,6 +90,8 @@
       });<br>
       <br>
       function closeDialog() {<br>
+      &nbsp;&nbsp;userName.innerText = name.value;<br>
+      &nbsp;&nbsp;userEmail.innerText = email.value;<br>
       &nbsp;&nbsp;dialog.className = 'dialog-off';<br>
       &nbsp;&nbsp;document.querySelector('#openButton').disabled = false;<br>
       &nbsp;&nbsp;overlay.className = 'overlay-off';<br>
@@ -113,8 +132,8 @@
     </p>
   </main>
   <footer id="page-footer">
-      <p>Return to <a href="../../">List of Examples</a></p>
       <p>Copyright &copy; 2019, Irene P. Smith</p>
+      <p><span>Photo by <a href="https://unsplash.com/@messrro?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mehdi Babousan</a> on <a href="https://unsplash.com/s/photos/patterns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p>
       <p>
         <a href="https://www.facebook.com/IrenePSmithAuthor/" target="_blank"><i class="fab fa-facebook"></i></a>&nbsp;
         <a href="https://twitter.com/Story_Teller" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;
@@ -124,7 +143,7 @@
   <!-- End Web page Content -->
 
   <!-- Dialog box content -->
-  <div id="overlay" class="overlay-on">I am visible</div>
+  <div id="overlay" class="overlay-on"></div>
 
   <div id="dialog" class="dialog-on">
     <div id="titlebar">
@@ -138,7 +157,7 @@
         before you can continue using the page.
       </p>
       <h2>Fill out the form...</h2>
-      <p>The information here will not be used in any way.</p>
+      <p>The information you enter will only be used on this page.</p>
       <form>
         <label for="name">Name:</label>
         <input type="text" name="name" id="name">
@@ -150,8 +169,8 @@
       <button id="closeButton">Close</button>
     </footer>
   </div>
+  <!-- End Dialog box Content -->
 
-  <!-- End Content -->
   <script src="js/modal.js"></script>
 </body>
 </html>
