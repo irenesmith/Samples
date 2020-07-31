@@ -6,9 +6,10 @@ The documents included here are:
 
 - **modal** - A step-by-step tutorial that shows how to create and display
   a modal dialog box over the web page. The tutorial is in index.html.
-- **Anatomy_of_a_Web_Page.docx** is a Microsoft Word document that (in this
+- **BeginningWebDevelopment** is a Microsoft Word document that (in this
   repo) disccuses the parts of an HTML page. The articles were written early
-  this year as part of a potential book on web development
+  this year as part of a potential book on web development. Thereis also a PDF
+  copy of the document.
 - **[How to Search](https://wiki.developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Search)** -
   An article on MDN Web Docs that describes the search capabilities of the
   Firefox JavaScript Debugger. As of July 30, 2020, the page lists me as the
