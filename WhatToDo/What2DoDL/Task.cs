@@ -27,11 +27,11 @@ namespace What2DoDL
             Status = TaskStatus.ToDo;
         }
 
-        public Task(String id, String name, DateTime dateCreated, TaskStatus status)
+        public Task(string id, string name, string dateCreated, TaskStatus status)
         {
             Id = new Guid(id);
             Name = name;
-            DateCreated = dateCreated;
+            DateCreated = Convert.ToDateTime(dateCreated);
             Status = status;
         }
     }

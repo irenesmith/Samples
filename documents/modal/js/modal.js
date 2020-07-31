@@ -1,6 +1,13 @@
-// Set up a variable for the dialog box
-const dialog = document.querySelector('#dialog');
-const overlay = document.querySelector('#overlay');
+// Set up variables for the dialog box and its objects
+const dialog = document.getElementById('dialog');
+const overlay = document.getElementById('overlay');
+const name = document.getElementById('name');
+const email = document.getElementById('email');
+
+// The two spans on the main page that will contain the
+// values the user enters on the dialog box.
+const userName = document.getElementById('username');
+const userEmail = document.getElementById('useremail');
 
 window.onload = (e) => {
   // Scroll to the top of the page
@@ -10,9 +17,9 @@ window.onload = (e) => {
 };
 
 // Add event listeners for the buttons.
-document.querySelector('#xButton').addEventListener('click', closeDialog);
-document.querySelector('#closeButton').addEventListener('click', closeDialog);
-document.querySelector('#openButton').addEventListener('click', e => {
+document.getElementById('xButton').addEventListener('click', closeDialog);
+document.getElementById('closeButton').addEventListener('click', closeDialog);
+document.getElementById('openButton').addEventListener('click', e => {
   document.querySelector('body').className = 'noScroll';
   overlay.className = 'overlay-on';
   dialog.className = 'dialog-on';
@@ -20,6 +27,8 @@ document.querySelector('#openButton').addEventListener('click', e => {
 });
 
 function closeDialog() {
+  userName.innerText = name.value;
+  userEmail.innerText = email.value;
   dialog.className = 'dialog-off';
   document.querySelector('#openButton').disabled = false;
   overlay.className = 'overlay-off';

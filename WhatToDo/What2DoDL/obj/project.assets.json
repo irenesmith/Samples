@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irene\\Source\\Repos\\WhatToDo\\What2DoDL\\What2DoDL.csproj",
+      "projectUniqueName": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDL\\What2DoDL.csproj",
       "projectName": "What2DoDL",
-      "projectPath": "C:\\Users\\irene\\Source\\Repos\\WhatToDo\\What2DoDL\\What2DoDL.csproj",
+      "projectPath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDL\\What2DoDL.csproj",
       "packagesPath": "C:\\Users\\irene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irene\\Source\\Repos\\WhatToDo\\What2DoDL\\obj\\",
+      "outputPath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

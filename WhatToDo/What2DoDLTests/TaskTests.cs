@@ -27,7 +27,7 @@ namespace What2DoDL.Tests
             // Set up values to use in the test
             var id = "b699e74d-3053-4ae2-828f-53a724b707cc";
             var name = "Test Task";
-            var dateCreated = Convert.ToDateTime("7/29/2020 11:29:03 PM");
+            var dateCreated = "7/29/2020 11:29:03 PM";
             var status = TaskStatus.InProgress;
 
             // Perform the test

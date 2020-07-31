@@ -24,10 +24,9 @@ namespace WhatToDo
             // wants to use to store tasks.
             if(String.IsNullOrEmpty(_FileName))
             {
-                openFileDlg.ShowDialog();
-                _FileName = openFileDlg.FileName;
-                _tasks = new Tasks(_FileName);
-                txtFileName.Text = _FileName;
+                _FileName = Properties.Settings.Default.FileNameSetting;
+                _tasks = new Tasks();
+                
             }
         }
     }
