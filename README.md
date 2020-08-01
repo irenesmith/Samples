@@ -1,9 +1,9 @@
-# Sample Applications
+# Samples
 
 This repository contains sample code as well as documentation samples
 created by Irene Smith
 
-The contents are as follows:
+## Repository Contents
 
 - **documents** contains sample documentation and links to additional examples
   on MDN Web Docs.
