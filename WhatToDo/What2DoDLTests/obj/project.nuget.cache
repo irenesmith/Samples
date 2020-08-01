@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAywBVCcrEVSZzU5/HzGPKSYJifaXIcE7cDlBRe4xTNa9Q3yXR1+AyzYJ0sFQ7cVhnEO67D8WiL3lFsWWsM11A==",
+  "dgSpecHash": "h4+qMq9iw7tTOV4EUZmz6TbhhjSQz7giTSII6LIkeY0Ujpgpu6DDVstkFcNTYhiFrqHwhlG+oIktrxK9hNFq7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irene\\Source\\Repos\\WhatToDo\\What2DoDLTests\\What2DoDLTests.csproj",
+  "projectFilePath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDLTests\\What2DoDLTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irene\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\irene\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

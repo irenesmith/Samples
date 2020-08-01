@@ -7,9 +7,9 @@ namespace What2DoDL
     public class Task
     {
         public Guid Id { get; private set; }
-        public string Name { get; set; }
         public DateTime DateCreated { get; set; }
         public TaskStatus Status { get; set; }
+        public string Name { get; set; }
 
         public Task()
         {

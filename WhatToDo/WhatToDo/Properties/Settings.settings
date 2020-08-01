@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="FileNameSetting" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">TaskList.txt</Value>
     </Setting>
   </Settings>
 </SettingsFile>

@@ -15,3 +15,4 @@ C:\Users\irene\Source\Repos\SampleApps\WhatToDo\What2DoDL\obj\Debug\netstandard2
 C:\Users\irene\Source\Repos\SampleApps\WhatToDo\What2DoDL\bin\Debug\netstandard2.0\What2DoDL.deps.json
 C:\Users\irene\Source\Repos\SampleApps\WhatToDo\What2DoDL\bin\Debug\netstandard2.0\What2DoDL.dll
 C:\Users\irene\Source\Repos\SampleApps\WhatToDo\What2DoDL\bin\Debug\netstandard2.0\What2DoDL.pdb
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\What2DoDL\obj\Debug\netstandard2.0\What2DoDL.csproj.CoreCompileInputs.cache
