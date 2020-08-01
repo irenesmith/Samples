@@ -23,3 +23,4 @@ C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.cspr
 C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.csproj.CopyComplete
 C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.exe
 C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.pdb
+C:\Users\irene\Source\Repos\SampleApps\WhatToDo\WhatToDo\obj\Debug\WhatToDo.csproj.CoreCompileInputs.cache

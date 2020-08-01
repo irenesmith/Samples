@@ -14,30 +14,43 @@ namespace What2DoDL
         private const int _DATE_CREATED_COLUMN = 2;
         private const int _STATUS_COLUMN = 3;
 
-        List<Task> _Items { get; set; }
-        public bool Saved { get; private set; }
+        public List<Task> Items { get; private set; }
+        public bool Saved { get; set; }
 
         public Tasks()
         {
-            _Items = new List<Task>();
+            Items = new List<Task>();
             Saved = false;
         }
 
         public void Add(Task newTask)
         {
-            _Items.Add(newTask);
+            Items.Add(newTask);
+            Saved = false;
+        }
+
+        public void Clear()
+        {
+            Items.Clear();
+            Saved = true;
+        }
+
+        public void Remove(Task itemToRemove)
+        {
+            Items.Remove(itemToRemove);
             Saved = false;
         }
 
         public int Count()
         {
-            return _Items.Count;
+            return Items.Count;
         }
 
         public int Load(string fileName)
         {
-            if (string.IsNullOrEmpty(fileName))
+            if (string.IsNullOrEmpty(fileName) || File.Exists(fileName) == false)
             {
+                Saved = false;
                 return 0;
             }
 
@@ -65,11 +78,14 @@ namespace What2DoDL
                         (TaskStatus)Enum.Parse(typeof(TaskStatus), columns[_STATUS_COLUMN]));
 
                     // Add the movie to list.
-                    _Items.Add(t);
+                    Items.Add(t);
                 }
 
             }
-            return _Items.Count;
+            // When the file has just been loaded
+            // from disk, it is also "saved"
+            Saved = true;
+            return Items.Count;
         }
 
         public bool Save(string fileName)
@@ -77,7 +93,7 @@ namespace What2DoDL
             // Write the contents of the list to the file.
             using (StreamWriter writer = new StreamWriter(fileName, false))
             {
-                foreach (Task t in _Items)
+                foreach (Task t in Items)
                 {
                     StringBuilder stringOut = new StringBuilder(t.Id.ToString());
                     stringOut.Append("\t" + t.Name);
