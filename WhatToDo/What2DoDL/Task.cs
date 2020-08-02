@@ -13,7 +13,7 @@ namespace What2DoDL
 
         public Task()
         {
-            Id = new Guid();
+            Id = Guid.NewGuid();
             Name = "New Task";
             DateCreated = DateTime.Now;
             IsDone = false;
