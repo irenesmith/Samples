@@ -68,16 +68,6 @@ namespace WhatToDo
             this.Text = $"{_FileName} - What to Do";
         }
 
-        private void dataViewTasks_UserAddedRow(object sender, DataGridViewRowEventArgs e)
-        {
-            _tasks.Saved = false;
-        }
-
-        private void dataViewTasks_UserDeletedRow(object sender, DataGridViewRowEventArgs e)
-        {
-            _tasks.Saved = false;
-        }
-
         private void FileOpen_Click(object sender, EventArgs e)
         {
             // Load returns a count. Right now, we don't care.
@@ -132,5 +122,15 @@ namespace WhatToDo
 
             }
         }
+        private void dataViewTasks_UserAddedRow(object sender, DataGridViewRowEventArgs e)
+        {
+            _tasks.Saved = false;
+        }
+
+        private void dataViewTasks_UserDeletedRow(object sender, DataGridViewRowEventArgs e)
+        {
+            _tasks.Saved = false;
+        }
+
     }
 }
