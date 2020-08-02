@@ -8,7 +8,7 @@ namespace What2DoDL
     {
         public Guid Id { get; private set; }
         public DateTime DateCreated { get; set; }
-        public TaskStatus Status { get; set; }
+        public bool IsDone { get; set; }
         public string Name { get; set; }
 
         public Task()
@@ -16,7 +16,7 @@ namespace What2DoDL
             Id = new Guid();
             Name = "New Task";
             DateCreated = DateTime.Now;
-            Status = TaskStatus.ToDo;
+            IsDone = false;
         }
 
         public Task(string name)
@@ -24,15 +24,15 @@ namespace What2DoDL
             Id = Guid.NewGuid();
             Name = name;
             DateCreated = DateTime.Now;
-            Status = TaskStatus.ToDo;
+            IsDone = false;
         }
 
-        public Task(string id, string name, string dateCreated, TaskStatus status)
+        public Task(string id, string name, string dateCreated, bool isDone)
         {
             Id = new Guid(id);
             Name = name;
             DateCreated = Convert.ToDateTime(dateCreated);
-            Status = status;
+            IsDone = isDone;
         }
     }
 

@@ -28,16 +28,16 @@ namespace What2DoDL.Tests
             var id = "b699e74d-3053-4ae2-828f-53a724b707cc";
             var name = "Test Task";
             var dateCreated = "7/29/2020 11:29:03 PM";
-            var status = TaskStatus.InProgress;
+            var isDone = false;
 
             // Perform the test
-            var t = new Task(id, name, dateCreated, status);
+            var t = new Task(id, name, dateCreated, isDone);
 
             // Check the results
             Assert.IsInstanceOfType(t.Id, typeof(Guid), BAD_GUID);
             Assert.AreEqual(name, t.Name);
             Assert.IsInstanceOfType(t.DateCreated, typeof(DateTime), BAD_DATE);
-            Assert.AreEqual(status, t.Status);
+            Assert.AreEqual(isDone, t.IsDone);
         }
 
     }
