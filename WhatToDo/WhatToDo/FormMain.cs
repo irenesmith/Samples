@@ -97,7 +97,8 @@ namespace WhatToDo
 
         private void FileSave_Click(object sender, EventArgs e)
         {
-            if (_tasks.Save(_FileName) == false)
+            //if (_tasks.Save(_FileName) == false)
+            if (_tasks.Save("TestTaskList.txt") == false)
             {
                 // Save didn't succeed. 
             }
