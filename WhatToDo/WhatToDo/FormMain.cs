@@ -8,9 +8,10 @@ namespace WhatToDo
     public partial class FormMain : Form
     {
         const string MSGBOX_MSG = "You have unsaved changes. Save before continuing?";
-        const string MSGBOX_TITLE = "Save Changes?";
+        const string MSGBOX_TITLE = "Save Changes";
+        const string MSGBOX_SAVE_ERROR = "There was an error saving the file.";
 
-        private Tasks _tasks;
+        private readonly Tasks _tasks;
         private string _FileName;
 
         public FormMain()
@@ -28,25 +29,33 @@ namespace WhatToDo
             if (File.Exists(_FileName))
                 _ = _tasks.Load(_FileName);
 
-            // Now, whether we loaded tasks or not, bind
-            // the _tasks variable list to the DataGridView
-            var bindingSource = new BindingSource();
-            bindingSource.DataSource = _tasks.Items;
-            dataViewTasks.DataSource = bindingSource;
-
-            // Set the window title to include the name of
-            // the file loaded.
-            this.Text = $"{ _FileName} - What To Do";
+            BindList();
+            SetTitle();
         }
 
-        private void FileNew_Click(object sender, EventArgs e)
+        private void BindList()
         {
-            // If there are unsaved changes, ask whether the
-            // user wants to save first.
-            if(_tasks.Count > 0 && !_tasks.Saved)
+            // Bind the _tasks.List<Tasks> property
+            // to the DataGridView
+            var bindingSource = new BindingSource
+            {
+                DataSource = _tasks.Items
+            };
+            dataViewTasks.DataSource = bindingSource;
+        }
+
+        private void SetTitle()
+        {
+            // Set the title to match the current _FileName
+            this.Text = $"{_FileName} - What to Do";
+        }
+
+        private void SaveChanges()
+        {
             {
                 var result = MessageBox.Show(MSGBOX_MSG, MSGBOX_TITLE, MessageBoxButtons.YesNoCancel);
-                switch(result) {
+                switch (result)
+                {
                     case DialogResult.Yes:
                         _tasks.Save(_FileName);
                         break;
@@ -60,12 +69,22 @@ namespace WhatToDo
                         return;
                 }
             }
+        }
+
+        private void FileNew_Click(object sender, EventArgs e)
+        {
+            // If there are unsaved changes, ask whether the
+            // user wants to save first.
+            if(_tasks.Count > 0 && !_tasks.Saved)
+            {
+                SaveChanges();
+            }
 
             // The user doesn't want to save first
             // Just clear the contents of the list.
-            _tasks.Clear();
+            dataViewTasks.Rows.Clear();
             _FileName = "Untitled";
-            this.Text = $"{_FileName} - What to Do";
+            SetTitle();
         }
 
         private void FileOpen_Click(object sender, EventArgs e)
@@ -84,15 +103,8 @@ namespace WhatToDo
             _FileName = openFileDlg.FileName;
             _ = _tasks.Load(_FileName);
 
-            // Now, whether we loaded tasks or not, bind
-            // the _tasks variable list to the DataGridView
-            var bindingSource = new BindingSource();
-            bindingSource.DataSource = _tasks.Items;
-            dataViewTasks.DataSource = bindingSource;
-
-            // Set the window title to include the name of
-            // the file loaded.
-            this.Text = $"{ _FileName} - What To Do";
+            BindList();
+            SetTitle();
         }
 
         private void FileSave_Click(object sender, EventArgs e)
@@ -100,7 +112,11 @@ namespace WhatToDo
             //if (_tasks.Save(_FileName) == false)
             if (_tasks.Save("TestTaskList.txt") == false)
             {
-                // Save didn't succeed. 
+                // Save didn't succeed.
+                MessageBox.Show(MSGBOX_SAVE_ERROR, MSGBOX_TITLE, MessageBoxButtons.OK);
+            } else
+            {
+                _tasks.Saved = true;
             }
         }
 
@@ -113,25 +129,45 @@ namespace WhatToDo
         private void FileSaveAs_Click(object sender, EventArgs e)
         {
             // Get a new file name
-
+            var result = saveFileDlg.ShowDialog();
+            if(result == DialogResult.OK)
+            {
+                _FileName = saveFileDlg.FileName;
+                var fileSaved =_tasks.Save(_FileName);
+                if(fileSaved == false)
+                {
+                    MessageBox.Show(MSGBOX_SAVE_ERROR, MSGBOX_TITLE, MessageBoxButtons.OK);
+                }
+                _tasks.Saved = true;
+            }
         }
 
         private void FileExit_Click(object sender, EventArgs e)
         {
             if (!_tasks.Saved)
             {
-
+                SaveChanges();
             }
+
+            // Update the setting to the current file name
+            Properties.Settings.Default.FileNameSetting = _FileName;
+            Application.Exit();
         }
-        private void dataViewTasks_UserAddedRow(object sender, DataGridViewRowEventArgs e)
+        
+        private void UserMadeChanges(object sender, DataGridViewCellEventArgs e)
         {
+            // The DataGridView takes care of updating the List<Task>
+            // list when the user edits a row so we just mark _tasks as
+            // needing to be saved.
             _tasks.Saved = false;
         }
 
-        private void dataViewTasks_UserDeletedRow(object sender, DataGridViewRowEventArgs e)
+        private void UserChangedRows(object sender, DataGridViewRowEventArgs e)
         {
+            // The DataGridView takes care of updating the
+            // List<Task> list when the user adds or deletes rows
+            // so just mark _tasks as needing to be saved.
             _tasks.Saved = false;
         }
-
     }
 }
