@@ -35,7 +35,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.dataViewTasks = new System.Windows.Forms.DataGridView();
             this.Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Status = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IsDone = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.DateCreated = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.taskName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.mainMenu = new System.Windows.Forms.MenuStrip();
@@ -54,7 +54,6 @@
             this.cmdOpen = new System.Windows.Forms.ToolStripButton();
             this.cmdSave = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator7 = new System.Windows.Forms.ToolStripSeparator();
-            this.cmdHelp = new System.Windows.Forms.ToolStripButton();
             this.toolStripContainer1.ContentPanel.SuspendLayout();
             this.toolStripContainer1.TopToolStripPanel.SuspendLayout();
             this.toolStripContainer1.SuspendLayout();
@@ -99,14 +98,17 @@
             // 
             // dataViewTasks
             // 
+            this.dataViewTasks.AllowUserToResizeColumns = false;
+            this.dataViewTasks.AllowUserToResizeRows = false;
             this.dataViewTasks.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataViewTasks.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Id,
-            this.Status,
+            this.IsDone,
             this.DateCreated,
             this.taskName});
             this.dataViewTasks.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataViewTasks.Location = new System.Drawing.Point(0, 0);
+            this.dataViewTasks.MultiSelect = false;
             this.dataViewTasks.Name = "dataViewTasks";
             this.dataViewTasks.Size = new System.Drawing.Size(624, 401);
             this.dataViewTasks.TabIndex = 0;
@@ -120,17 +122,21 @@
             this.Id.Name = "Id";
             this.Id.Visible = false;
             // 
-            // Status
+            // IsDone
             // 
-            this.Status.DataPropertyName = "Status";
-            this.Status.HeaderText = "Status";
-            this.Status.Name = "Status";
+            this.IsDone.DataPropertyName = "IsDone";
+            this.IsDone.HeaderText = "Done?";
+            this.IsDone.Name = "IsDone";
+            this.IsDone.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.IsDone.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.IsDone.Width = 50;
             // 
             // DateCreated
             // 
             this.DateCreated.DataPropertyName = "DateCreated";
             this.DateCreated.HeaderText = "Date";
             this.DateCreated.Name = "DateCreated";
+            this.DateCreated.ReadOnly = true;
             // 
             // taskName
             // 
@@ -173,7 +179,7 @@
             this.mnuFileNew.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
             this.mnuFileNew.Size = new System.Drawing.Size(180, 22);
             this.mnuFileNew.Text = "&New";
-            this.mnuFileNew.Click += new System.EventHandler(this.mnuFileNew_Click);
+            this.mnuFileNew.Click += new System.EventHandler(this.FileNew_Click);
             // 
             // mnuFileOpen
             // 
@@ -183,6 +189,7 @@
             this.mnuFileOpen.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
             this.mnuFileOpen.Size = new System.Drawing.Size(180, 22);
             this.mnuFileOpen.Text = "&Open";
+            this.mnuFileOpen.Click += new System.EventHandler(this.FileOpen_Click);
             // 
             // toolStripSeparator
             // 
@@ -197,12 +204,14 @@
             this.mnuFileSave.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
             this.mnuFileSave.Size = new System.Drawing.Size(180, 22);
             this.mnuFileSave.Text = "&Save";
+            this.mnuFileSave.Click += new System.EventHandler(this.FileSave_Click);
             // 
             // mnuFileSaveAs
             // 
             this.mnuFileSaveAs.Name = "mnuFileSaveAs";
             this.mnuFileSaveAs.Size = new System.Drawing.Size(180, 22);
             this.mnuFileSaveAs.Text = "Save &As";
+            this.mnuFileSaveAs.Click += new System.EventHandler(this.FileSaveAs_Click);
             // 
             // toolStripSeparator2
             // 
@@ -214,6 +223,7 @@
             this.mnuFileExit.Name = "mnuFileExit";
             this.mnuFileExit.Size = new System.Drawing.Size(180, 22);
             this.mnuFileExit.Text = "E&xit";
+            this.mnuFileExit.Click += new System.EventHandler(this.FileExit_Click);
             // 
             // HelpMenu
             // 
@@ -228,6 +238,7 @@
             this.mnuHelpAbout.Name = "mnuHelpAbout";
             this.mnuHelpAbout.Size = new System.Drawing.Size(180, 22);
             this.mnuHelpAbout.Text = "&About What To Do...";
+            this.mnuHelpAbout.Click += new System.EventHandler(this.HelpAbout_Click);
             // 
             // mainToolStrip
             // 
@@ -236,11 +247,10 @@
             this.cmdNew,
             this.cmdOpen,
             this.cmdSave,
-            this.toolStripSeparator7,
-            this.cmdHelp});
+            this.toolStripSeparator7});
             this.mainToolStrip.Location = new System.Drawing.Point(3, 24);
             this.mainToolStrip.Name = "mainToolStrip";
-            this.mainToolStrip.Size = new System.Drawing.Size(110, 25);
+            this.mainToolStrip.Size = new System.Drawing.Size(87, 25);
             this.mainToolStrip.TabIndex = 1;
             // 
             // cmdNew
@@ -251,6 +261,7 @@
             this.cmdNew.Name = "cmdNew";
             this.cmdNew.Size = new System.Drawing.Size(23, 22);
             this.cmdNew.Text = "&New";
+            this.cmdNew.Click += new System.EventHandler(this.FileNew_Click);
             // 
             // cmdOpen
             // 
@@ -260,6 +271,7 @@
             this.cmdOpen.Name = "cmdOpen";
             this.cmdOpen.Size = new System.Drawing.Size(23, 22);
             this.cmdOpen.Text = "&Open";
+            this.cmdOpen.Click += new System.EventHandler(this.FileOpen_Click);
             // 
             // cmdSave
             // 
@@ -269,20 +281,12 @@
             this.cmdSave.Name = "cmdSave";
             this.cmdSave.Size = new System.Drawing.Size(23, 22);
             this.cmdSave.Text = "&Save";
+            this.cmdSave.Click += new System.EventHandler(this.FileSave_Click);
             // 
             // toolStripSeparator7
             // 
             this.toolStripSeparator7.Name = "toolStripSeparator7";
             this.toolStripSeparator7.Size = new System.Drawing.Size(6, 25);
-            // 
-            // cmdHelp
-            // 
-            this.cmdHelp.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.cmdHelp.Image = ((System.Drawing.Image)(resources.GetObject("cmdHelp.Image")));
-            this.cmdHelp.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.cmdHelp.Name = "cmdHelp";
-            this.cmdHelp.Size = new System.Drawing.Size(23, 22);
-            this.cmdHelp.Text = "He&lp";
             // 
             // FormMain
             // 
@@ -331,10 +335,9 @@
         private System.Windows.Forms.ToolStripButton cmdOpen;
         private System.Windows.Forms.ToolStripButton cmdSave;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator7;
-        private System.Windows.Forms.ToolStripButton cmdHelp;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Id;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Status;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn IsDone;
         private System.Windows.Forms.DataGridViewTextBoxColumn DateCreated;
         private System.Windows.Forms.DataGridViewTextBoxColumn taskName;
     }

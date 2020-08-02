@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G6ZsrEowjehcUhwbu7F4Gp1O6mz2VUWywNu1G2KmPf/u3cjayqjObu6VUdxjrWKh9EmG3/1MaGAYTcsE15kl7Q==",
+  "dgSpecHash": "8YTHLRCbUWM83kbouG0t2C+/Cm+FwCotShxof0SKPSlEwUHUMOwhUFqDVlaKDuNQjzzG94IhFoavmoQ51oK5Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDL\\What2DoDL.csproj",
+  "projectFilePath": "C:\\Users\\irene\\Source\\Repos\\Samples\\WhatToDo\\What2DoDL\\What2DoDL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irene\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

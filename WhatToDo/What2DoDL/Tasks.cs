@@ -16,6 +16,8 @@ namespace What2DoDL
 
         public List<Task> Items { get; private set; }
         public bool Saved { get; set; }
+        public int Count => Items.Count;
+
 
         public Tasks()
         {
@@ -41,11 +43,11 @@ namespace What2DoDL
             Saved = false;
         }
 
-        public int Count()
-        {
-            return Items.Count;
-        }
-
+        /// <summary>
+        /// Load the list from a text file.
+        /// </summary>
+        /// <param name="fileName">The path to an existing file.</param>
+        /// <returns>The number of Tasks in the loaded file.</returns>
         public int Load(string fileName)
         {
             if (string.IsNullOrEmpty(fileName) || File.Exists(fileName) == false)
@@ -71,14 +73,11 @@ namespace What2DoDL
 
                     // Assign the column values
                     // to the properties of a
-                    // movie object.
-                    Task t = new Task(columns[_ID_COLUMN],
+                    // Task object and add it to the list.
+                    Items.Add(new Task(columns[_ID_COLUMN],
                         columns[_NAME_COLUMN],
                         columns[_DATE_CREATED_COLUMN],
-                        (TaskStatus)Enum.Parse(typeof(TaskStatus), columns[_STATUS_COLUMN]));
-
-                    // Add the movie to list.
-                    Items.Add(t);
+                        Convert.ToBoolean(columns[_STATUS_COLUMN])));
                 }
 
             }
@@ -93,12 +92,11 @@ namespace What2DoDL
             // Write the contents of the list to the file.
             using (StreamWriter writer = new StreamWriter(fileName, false))
             {
-                foreach (Task t in Items)
+                foreach (var t in Items)
                 {
-                    StringBuilder stringOut = new StringBuilder(t.Id.ToString());
-                    stringOut.Append("\t" + t.Name);
-                    stringOut.Append("\t" + t.DateCreated.ToString());
-                    stringOut.Append("\t" + t.Status);
+                    var stringOut = new StringBuilder(
+                        $"{t.Id}\t{t.Name}\t{ t.DateCreated}\t{t.IsDone}"
+                    );
                     writer.WriteLine(stringOut);
                 }
 

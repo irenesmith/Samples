@@ -6811,11 +6811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDLTests\\What2DoDLTests.csproj",
+      "projectUniqueName": "C:\\Users\\irene\\Source\\Repos\\Samples\\WhatToDo\\What2DoDLTests\\What2DoDLTests.csproj",
       "projectName": "What2DoDLTests",
-      "projectPath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDLTests\\What2DoDLTests.csproj",
+      "projectPath": "C:\\Users\\irene\\Source\\Repos\\Samples\\WhatToDo\\What2DoDLTests\\What2DoDLTests.csproj",
       "packagesPath": "C:\\Users\\irene\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDLTests\\obj\\",
+      "outputPath": "C:\\Users\\irene\\Source\\Repos\\Samples\\WhatToDo\\What2DoDLTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6836,8 +6836,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDL\\What2DoDL.csproj": {
-              "projectPath": "C:\\Users\\irene\\Source\\Repos\\SampleApps\\WhatToDo\\What2DoDL\\What2DoDL.csproj"
+            "C:\\Users\\irene\\Source\\Repos\\Samples\\WhatToDo\\What2DoDL\\What2DoDL.csproj": {
+              "projectPath": "C:\\Users\\irene\\Source\\Repos\\Samples\\WhatToDo\\What2DoDL\\What2DoDL.csproj"
             }
           }
         }
