@@ -34,5 +34,17 @@ namespace WhatToDo.Properties {
                 this["FileNameSetting"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string PathNameSetting {
+            get {
+                return ((string)(this["PathNameSetting"]));
+            }
+            set {
+                this["PathNameSetting"] = value;
+            }
+        }
     }
 }
