@@ -19,9 +19,6 @@ namespace WhatToDo
             InitializeComponent();
 
             // Get the file name from the Program Settings
-            // If the user has run the program it will use
-            // the file that was last saved. If not, it will
-            // use the default name, "TaskList.txt"
             _FileName = Properties.Settings.Default.FileNameSetting;
             _tasks = new Tasks();
 
@@ -35,8 +32,7 @@ namespace WhatToDo
 
         private void BindList()
         {
-            // Bind the _tasks.List<Tasks> property
-            // to the DataGridView
+            // Bind _tasks.List<Tasks> to the DataGridView
             var bindingSource = new BindingSource
             {
                 DataSource = _tasks.Items
@@ -47,7 +43,7 @@ namespace WhatToDo
         private void SetTitle()
         {
             // Set the title to match the current _FileName
-            this.Text = $"{_FileName} - What to Do";
+            Text = $"{_FileName} - What to Do";
         }
 
         private void SaveChanges()
@@ -80,8 +76,7 @@ namespace WhatToDo
                 SaveChanges();
             }
 
-            // The user doesn't want to save first
-            // Just clear the contents of the list.
+            // The user doesn't want to save clear the list.
             dataViewTasks.Rows.Clear();
             _FileName = "Untitled";
             SetTitle();
@@ -99,7 +94,7 @@ namespace WhatToDo
                 return;
             }
 
-            _tasks.Clear();
+            dataViewTasks.Rows.Clear();
             _FileName = openFileDlg.FileName;
             _ = _tasks.Load(_FileName);
 
@@ -109,8 +104,7 @@ namespace WhatToDo
 
         private void FileSave_Click(object sender, EventArgs e)
         {
-            //if (_tasks.Save(_FileName) == false)
-            if (_tasks.Save("TestTaskList.txt") == false)
+            if (_tasks.Save(_FileName) == false)
             {
                 // Save didn't succeed.
                 MessageBox.Show(MSGBOX_SAVE_ERROR, MSGBOX_TITLE, MessageBoxButtons.OK);
@@ -149,24 +143,22 @@ namespace WhatToDo
                 SaveChanges();
             }
 
-            // Update the setting to the current file name
+            // Save the current file name to Settings
             Properties.Settings.Default.FileNameSetting = _FileName;
             Application.Exit();
         }
         
         private void UserMadeChanges(object sender, DataGridViewCellEventArgs e)
         {
-            // The DataGridView takes care of updating the List<Task>
-            // list when the user edits a row so we just mark _tasks as
-            // needing to be saved.
+            // The DataGridView updates the List<Task> but we want
+            // to mark it as needing saving
             _tasks.Saved = false;
         }
 
         private void UserChangedRows(object sender, DataGridViewRowEventArgs e)
         {
-            // The DataGridView takes care of updating the
-            // List<Task> list when the user adds or deletes rows
-            // so just mark _tasks as needing to be saved.
+            // The DataGridView updates the List<Task> but we want
+            // to mark it as needing saving.
             _tasks.Saved = false;
         }
     }
