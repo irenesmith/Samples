@@ -10,9 +10,12 @@ namespace WhatToDo
         const string MSGBOX_MSG = "You have unsaved changes. Save before continuing?";
         const string MSGBOX_TITLE = "Save Changes";
         const string MSGBOX_SAVE_ERROR = "There was an error saving the file.";
+        const string MSGBOX_SAVE_OK = "File saved successfully.";
 
         private readonly Tasks _tasks;
         private string _FileName;
+        private string _PathName;
+        private string _FullPath;
 
         public FormMain()
         {
@@ -20,6 +23,8 @@ namespace WhatToDo
 
             // Get the file name from the Program Settings
             _FileName = Properties.Settings.Default.FileNameSetting;
+            _PathName = Properties.Settings.Default.PathNameSetting;
+            _FullPath = Path.Combine(_PathName, _FileName);
             _tasks = new Tasks();
 
             // Load returns a count. Right now, we don't care.
@@ -95,7 +100,9 @@ namespace WhatToDo
             }
 
             dataViewTasks.Rows.Clear();
-            _FileName = openFileDlg.FileName;
+            _FullPath = openFileDlg.FileName;
+            _FileName = Path.GetFileName(_FullPath);
+            _PathName = Path.GetDirectoryName(_FullPath);
             _ = _tasks.Load(_FileName);
 
             BindList();
@@ -104,12 +111,13 @@ namespace WhatToDo
 
         private void FileSave_Click(object sender, EventArgs e)
         {
-            if (_tasks.Save(_FileName) == false)
+            if (_tasks.Save(_FullPath) == false)
             {
                 // Save didn't succeed.
                 MessageBox.Show(MSGBOX_SAVE_ERROR, MSGBOX_TITLE, MessageBoxButtons.OK);
             } else
             {
+                MessageBox.Show(MSGBOX_SAVE_OK, MSGBOX_TITLE, MessageBoxButtons.OK);
                 _tasks.Saved = true;
             }
         }
@@ -123,14 +131,23 @@ namespace WhatToDo
         private void FileSaveAs_Click(object sender, EventArgs e)
         {
             // Get a new file name
+            saveFileDlg.InitialDirectory = _PathName;
+            saveFileDlg.FileName = _FileName;
             var result = saveFileDlg.ShowDialog();
             if(result == DialogResult.OK)
             {
-                _FileName = saveFileDlg.FileName;
+                _FullPath = saveFileDlg.FileName;
+                _FileName = Path.GetFileName(_FullPath);
+                _PathName = Path.GetDirectoryName(_FullPath);
+
                 var fileSaved =_tasks.Save(_FileName);
                 if(fileSaved == false)
                 {
                     MessageBox.Show(MSGBOX_SAVE_ERROR, MSGBOX_TITLE, MessageBoxButtons.OK);
+                }
+                else
+                {
+                    MessageBox.Show(MSGBOX_SAVE_OK, MSGBOX_TITLE, MessageBoxButtons.OK);
                 }
                 _tasks.Saved = true;
             }
@@ -145,6 +162,7 @@ namespace WhatToDo
 
             // Save the current file name to Settings
             Properties.Settings.Default.FileNameSetting = _FileName;
+            Properties.Settings.Default.PathNameSetting = _PathName;
             Application.Exit();
         }
         
