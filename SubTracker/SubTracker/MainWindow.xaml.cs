@@ -2,6 +2,7 @@
 using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Navigation;
 
 namespace SubTracker
 {
@@ -51,60 +52,43 @@ namespace SubTracker
 
         private void cmdAdd_Click(object sender, RoutedEventArgs e)
         {
-            // Determine what to add
-            switch (MainTabs.SelectedIndex)
+            switch(MainTabs.SelectedIndex)
             {
                 case ProjectTabIndex:
-                    _ = MessageBox.Show("Adding new Project.");
+                    var addProject = new AddProject();
+                    addProject.ShowDialog();
                     break;
                 case PublisherTabIndex:
-                    _ = MessageBox.Show("Adding new Publisher.");
+                    _ = MessageBox.Show("Adding Publisher");
                     break;
                 case SubmissionTabIndex:
-                    _ = MessageBox.Show("Adding new Submission.");
+                    _ = MessageBox.Show("Adding Submission.");
                     break;
                 default:
-                    // Error invalid choice.
-                    return;
-            }
+                    throw new NotSupportedException();
+            };
         }
 
         private void cmdEdit_Click(object sender, RoutedEventArgs e)
         {
-            switch (MainTabs.SelectedIndex)
+            _ = (MainTabs.SelectedIndex switch
             {
-                case ProjectTabIndex:
-                    _ = MessageBox.Show("Editing selected Project.");
-                    break;
-                case PublisherTabIndex:
-                    _ = MessageBox.Show("Editing selected Publisher.");
-                    break;
-                case SubmissionTabIndex:
-                    _ = MessageBox.Show("Editing selected Submission.");
-                    break;
-                default:
-                    // Error invalid choice.
-                    return;
-            }
+                ProjectTabIndex => MessageBox.Show("Editing selected Project."),
+                PublisherTabIndex => MessageBox.Show("Editing selected Publisher"),
+                SubmissionTabIndex => MessageBox.Show("Editing selected Submission."),
+                _ => throw new NotSupportedException()
+            });
         }
 
         private void cmdDelete_Click(object sender, RoutedEventArgs e)
         {
-            switch (MainTabs.SelectedIndex)
+            _ = (MainTabs.SelectedIndex switch
             {
-                case ProjectTabIndex:
-                    _ = MessageBox.Show("Deleting selected Project.");
-                    break;
-                case PublisherTabIndex:
-                    _ = MessageBox.Show("Deleting selected Publisher.");
-                    break;
-                case SubmissionTabIndex:
-                    _ = MessageBox.Show("Deleting selected Submission.");
-                    break;
-                default:
-                    // Error invalid choice.
-                    return;
-            }
+                ProjectTabIndex => MessageBox.Show("Deleting selected Project."),
+                PublisherTabIndex => MessageBox.Show("Deleting selected Publisher"),
+                SubmissionTabIndex => MessageBox.Show("Deleting selected Submission."),
+                _ => throw new NotSupportedException()
+            });
         }
     }
 }

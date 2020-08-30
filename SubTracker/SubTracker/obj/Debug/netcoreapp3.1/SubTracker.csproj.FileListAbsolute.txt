@@ -13,7 +13,9 @@ C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.
 C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.g.resources
 C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.AssemblyInfoInputs.cache
 C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.AssemblyInfo.cs
-C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.csproj.CoreCompileInputs.cache
 C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.dll
 C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.pdb
 C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.genruntimeconfig.cache
+C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\SubTracker.csproj.CoreCompileInputs.cache
+C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\AddProject.g.cs
+C:\Users\irene\Source\Repos\Samples\SubTracker\SubTracker\obj\Debug\netcoreapp3.1\AddProject.baml

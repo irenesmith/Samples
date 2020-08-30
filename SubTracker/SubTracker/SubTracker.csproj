@@ -10,10 +10,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="submarine-3040186_1920.jpg" />
     <None Remove="submarine-periscope.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="submarine-3040186_1920.jpg" />
     <Resource Include="submarine-periscope.png" />
   </ItemGroup>
 

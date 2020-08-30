@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SubTrackerDL
+namespace SubTrackerDL.Models
 {
    public class Submission
     {
