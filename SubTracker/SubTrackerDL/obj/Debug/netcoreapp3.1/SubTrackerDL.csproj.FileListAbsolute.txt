@@ -1,4 +1,0 @@
-C:\Users\irene\Source\Repos\Samples\SubTracker\SubTrackerDL\obj\Debug\netcoreapp3.1\SubTrackerDL.csprojAssemblyReference.cache
-C:\Users\irene\Source\Repos\Samples\SubTracker\SubTrackerDL\obj\Debug\netcoreapp3.1\SubTrackerDL.AssemblyInfoInputs.cache
-C:\Users\irene\Source\Repos\Samples\SubTracker\SubTrackerDL\obj\Debug\netcoreapp3.1\SubTrackerDL.AssemblyInfo.cs
-C:\Users\irene\Source\Repos\Samples\SubTracker\SubTrackerDL\obj\Debug\netcoreapp3.1\SubTrackerDL.csproj.CoreCompileInputs.cache
