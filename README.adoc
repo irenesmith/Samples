@@ -8,15 +8,14 @@ endif::[]
 :toc:
 :toc-placement!:
 
-== Samples
+= Samples
 
 This repository contains code samples and documentation samples
 created by Irene Smith.
 
 toc::[]
 
-Documentation Samples
----------------------
+== Documentation Samples
 
 The documents folder contains sample documentation and links to additional examples 
 on MDN Web Docs.
@@ -38,12 +37,11 @@ uses the mousedown, musemove, and mouseup event handlers to let the reader draw
 using the mouse. To keep the example simple, it only draws. There is no eraser
 and no ability to change the drawing color or the pen thickness.
 
-    **Document History**
+=== Document History
     
     ![Screenshot of Document History](mousedown_event_history.jpg)
 
-SnipMan
---------
+== SnipMan
 
 This is a Python application that I created back in 2012 to track the tasks and
 projects I was working on while I was a contractor at Google. Employees were
@@ -51,15 +49,13 @@ required to submit a list of the tasks they completed during the week. This app
 allowed me to create the file as I was working on it during the week. It helped
 me to remember what I had worked on so I could report it accurately.
 
-Stuff2Do
---------
+== Stuff2Do
 
 The web app Stuff2Do is a jQuery example that manages a simple To Do list. Tasks
 are stored in local storage rather than in a database just to keep the
 application simple. It was written as a learning exercise.
 
-WhatToDo
---------
+== WhatToDo
 
 What to do is similar to Stuff2Do. It is a C# Windows Desktop application that
 maintains a list of tasks. In this case, tasks are stored in a text file. on
