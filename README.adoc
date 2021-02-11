@@ -1,0 +1,69 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:toc:
+:toc-placement!:
+
+== Samples
+
+This repository contains code samples and documentation samples
+created by Irene Smith.
+
+toc::[]
+
+Documentation Samples
+---------------------
+
+The documents folder contains sample documentation and links to additional examples 
+on MDN Web Docs.
+
+    * **modal** - A step-by-step tutorial that shows how to create and display
+    a modal dialog box over the web page. The tutorial is in index.html.
+
+    * **BeginningWebDevelopment** - is a Microsoft Word document that (in this
+    repo) disccuses the parts of an HTML page. The articles were written early
+    this year as part of a potential book on web development. Thereis also a PDF
+    copy of the document.
+
+    * **[How to Search](https://wiki.developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Search)** - An article on MDN Web Docs that describes the search capabilities of the Firefox JavaScript Debugger. As of July 30, 2020, the page lists me as the last to edit it on October 15, 2019.
+
+    * **[Element: mousedown event](https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event)** - is an MDN Web Docs page describing the event handler for the mousedown event. The reference was written as part of an initiative to document all event handlers.
+
+The page describes the mousedown event and the accompanying JavaScript example
+uses the mousedown, musemove, and mouseup event handlers to let the reader draw
+using the mouse. To keep the example simple, it only draws. There is no eraser
+and no ability to change the drawing color or the pen thickness.
+
+    **Document History**
+    
+    ![Screenshot of Document History](mousedown_event_history.jpg)
+
+SnipMan
+--------
+
+This is a Python application that I created back in 2012 to track the tasks and
+projects I was working on while I was a contractor at Google. Employees were
+required to submit a list of the tasks they completed during the week. This app
+allowed me to create the file as I was working on it during the week. It helped
+me to remember what I had worked on so I could report it accurately.
+
+Stuff2Do
+--------
+
+The web app Stuff2Do is a jQuery example that manages a simple To Do list. Tasks
+are stored in local storage rather than in a database just to keep the
+application simple. It was written as a learning exercise.
+
+WhatToDo
+--------
+
+What to do is similar to Stuff2Do. It is a C# Windows Desktop application that
+maintains a list of tasks. In this case, tasks are stored in a text file. on
+the user's computer.
+
+TIP: I did not create an installer for this application. You must copy the code
+to your computer and compile it yourself.
