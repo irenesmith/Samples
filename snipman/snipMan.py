@@ -118,7 +118,7 @@ class SnippetManager(Tk):
   # the location in the listbox where the
   # user clicked into the text box and also
   # sets self.IsEditing to True so that
-  # file will be placed back in the list at
+  # item will be placed back in the list at
   # the same spot and the entire list will
   # be saved when the user is done.
   def OnListItemClick(self,event):
