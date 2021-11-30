@@ -40,10 +40,6 @@ uses the mousedown, musemove, and mouseup event handlers to let the reader draw
 using the mouse. To keep the example simple, it only draws. There is no eraser
 and no ability to change the drawing color or the pen thickness.
 
-=== Document History
-    
-    image::images/mousedown_event_history.jpg[Mousedown Event History]
-
 == SnipMan
 
 This is a Python application that I created back in 2012 to track the tasks and
