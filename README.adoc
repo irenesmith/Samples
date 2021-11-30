@@ -5,6 +5,9 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
+
+:imagesdir: images/
+
 :toc:
 :toc-placement!:
 
@@ -36,10 +39,6 @@ The page describes the mousedown event and the accompanying JavaScript example
 uses the mousedown, musemove, and mouseup event handlers to let the reader draw
 using the mouse. To keep the example simple, it only draws. There is no eraser
 and no ability to change the drawing color or the pen thickness.
-
-=== Document History
-    
-    ![Screenshot of Document History](documents/mousedown_event_history.jpg)
 
 == SnipMan
 
