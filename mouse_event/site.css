@@ -1,0 +1,25 @@
+html {
+	height:100%;
+	margin:0;
+	padding:0;
+	width:100%;
+}
+
+body {
+	color:#333;
+  font-family: 'Fira Sans', sans-serif;
+	font-size:16px;
+	height:100%;
+	width:100%;
+}
+
+main {
+  margin-left:3em;
+}
+
+canvas {
+  border: 1px solid black;
+  width: 560px;
+  height: 360px;
+}
+  
