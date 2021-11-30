@@ -42,7 +42,7 @@ and no ability to change the drawing color or the pen thickness.
 
 === Document History
     
-    image::images/mousedown_event_history.jpg[]
+    image::images/mousedown_event_history.jpg[Mousedown Event History]
 
 == SnipMan
 
