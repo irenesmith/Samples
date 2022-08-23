@@ -1,0 +1,2 @@
+Created VB SnipMan
+Add AWS S3 Bucket as file destination
