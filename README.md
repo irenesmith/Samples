@@ -1,26 +1,13 @@
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
-
-:imagesdir: images/
-
-:toc:
-:toc-placement!:
-
-= Samples
+# Samples
 
 This repository contains code samples and documentation samples
 created by Irene Smith.
 
 toc::[]
 
-== Documentation Samples
+## Documentation Samples
 
-The documents folder contains sample documentation and links to additional examples 
+The documents folder contains sample documentation and links to additional examples
 on MDN Web Docs.
 
     * **modal** - A step-by-step tutorial that shows how to create and display
@@ -40,14 +27,14 @@ uses the mousedown, musemove, and mouseup event handlers to let the reader draw
 using the mouse. To keep the example simple, it only draws. There is no eraser
 and no ability to change the drawing color or the pen thickness.
 
-== Mouse Events
+## Mouse Events
 
 A very simple example of using [mouse events](mouse_event/) to draw on an HTML
 canvas using the mouse. It doesn't have any ability to change pen color or
 thickness. It was written simply to show how to handle events in vanilla
 JavaScript.
 
-== SnipMan
+## SnipMan
 
 This is a Python application that I created back in 2012 to track the tasks and
 projects I was working on while I was a contractor at Google. Employees were
@@ -60,37 +47,38 @@ just for fun.
 
 - [SnipManJS](snipman/SnipManJS) - The JavaScript version of SnipMan
 - [snipManPython](snipman/SnipManPython) - Contains two versions of the program
-    - [SnipMan Python v1](snipman/SnipManPython/snipManv1) - The original snipman
-      program created in 2012
-    - [SnipMan Python v2](snipman/SnipManPython/snipManv2) - A slightly updated
-      version of the program attempting
-      to implement SnipMan using best practices for Python.
+  - [SnipMan Python v1](snipman/SnipManPython/snipManv1) - The original snipman
+    program created in 2012
+  - [SnipMan Python v2](snipman/SnipManPython/snipManv2) - A slightly updated
+    version of the program attempting
+    to implement SnipMan using best practices for Python.
 - [SnipManVB](snipman/SnipManVB) - Snipman written for Visual Basic .NET
 
-== Spiromania
+## Spiromania
 
 [Spiromania](spiromania/) draws images similar to the old Spirograph game that was popular in the 60s and
 70s. It is based on a sample application written in Delphi by Jeff Duntemann.
 
-== Stuff2Do
+## Stuff2Do
 
 The web app [Stuff2Do](stuff2do/) is a jQuery example that manages a simple To Do list. Tasks
 are stored in local storage rather than in a database just to keep the
 application simple. It was written as a learning exercise.
 
-== Tipster
+## Tipster
+
 [Tipster](tipster/) calculates the tip at a restaurant. Allows users to set the number of diners, and
 the percentage that the use wants to tip.
 
-== WhatToDo
+## WhatToDo
 
 [What To Do](WhatToDo/) is similar to Stuff2Do. It is a C# Windows Desktop application that
 maintains a list of tasks. In this case, tasks are stored in a text file. on
 the user's computer.
 
-TIP: I did not create an installer for this application. You must copy the code
+⚠️ I did not create an installer for this application. You must copy the code
 to your computer and compile it yourself.
 
-== Yacht
+## Yacht
 
 [Yacht](yacht/) is a game similar to Yahtzee written in JavaScript.
