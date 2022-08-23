@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Our Books</title>
+	
+	<meta name="description" content="Examples of HTML, CSS, and JavaScript apps created by Irene Smith.">
+	<meta name="author" content="Irene Smith">
+
+	<link href="https://fonts.googleapis.com/css?family=Heebo|Satisfy" rel="stylesheet">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<main>
+		<header>
+			<div id="movie-img">
+				<img src="img/teddy-bear-books.png" />
+			</div>
+			<h1>Our Books</h1>
+		    <div id="content">
+		    	<p>This is a list of our books. (Initially the list is focused on my books. It is
+		    	far from complete. There are <span id="bookCount"></span> books in the database
+		    	so far; not even one book case full.)</p>
+			</div>
+		</header>
+	    <table id="bookTable">
+	    	<thead>
+		    	<tr>
+		    		<th>Fiction?</th>
+		    		<th>Read?</th>
+		    		<th>Title</th>
+		    		<th>Author</th>
+		    		<th>Year</th>
+		    		<th>Pages</th>
+		    		<th style="width:4em;">Format</th>
+		    		<th>Description</th>
+		    	</tr>
+		    </thead>
+		    <tbody id="books">
+	    	</tbody>
+	    </table>
+	</main>
+
+	<!-- End of Content -->
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://s3.amazonaws.com/stitch-sdks/js/library/v2/stable/stitch.min.js"></script>
+	<script src="js/books.js"></script>
+</body>
+</html>

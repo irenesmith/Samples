@@ -1,0 +1,1026 @@
+{"_id":{"$oid":"59f246736804990a384f0afc"},"title":"Wonder Woman","director":"Jenkins, Patty","format":"4K","genre":["Action","Adventure","Fantasy"],"hasvudu":true,"owner":"Irene","year":2017}
+{"_id":{"$oid":"59f7b390db5ad0ff477ce2c6"},"title":"300","director":"Snyder, Zack","format":"DVD","hasvudu":false,"genre":["Action","Fantasy"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2cc"},"title":"101 Dalmations","director":"Herek, Stephen","format":"DVD","hasvudu":false,"genre":["Adventure","Comedy","Crime"],"owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2db"},"title":"Airport","director":["Seaton, George","Hathaway, Henry"],"format":"DVD","hasvudu":false,"genre":["Action","Drama","Thriller"],"owner":"Irene","year":"1970"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2c8"},"title":"1408","director":"Hafstrom, Mikael","format":"DVD","hasvudu":false,"genre":["Drama","Horror"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2cd"},"title":"10th Kingdom, The","director":["Carson, David","Wise, Herbert"],"format":"DVD","hasvudu":false,"genre":["Adventure","Comedy","Family"],"owner":"Matt","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ca"},"title":"1000 Singing Slugs","format":"DVD","hasvudu":false,"genre":["Animation","Bonus Material","Family"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d3"},"title":"3000 Miles to Graceland","director":"Lichtenstein, Demian","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d4"},"title":"40-Year-Old Virgin, The","director":"Apatow, Judd","format":"DVD","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e0"},"title":"American Graffiti","director":"Lucas, George","format":"DVD","hasvudu":false,"genre":["Comedy","Drama"],"owner":"Irene","year":"1973"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ea"},"title":"Aristocats, The","director":"Reitherman, Wolfgang","format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Music"],"owner":"Irene","year":"1970"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ff"},"title":"Batman \u0026 Mr. Freeze: SubZero","director":"Kirkland, Boyd","format":"DVD","hasvudu":false,"genre":["Animation","Action","Crime","Drama","Science Fiction","Thriller"],"owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e2"},"title":"Amos and Andrew","director":"Frye, E. Max","format":"DVD","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2cb"},"title":"101 Dalmations","director":["Geronimi, Clyde","Luske, Hamilton","Reitherman, Wolfgang"],"format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Comedy"],"owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d1"},"title":"28 Days","director":"Thomas, Betty","format":"DVD","hasvudu":false,"genre":["Comedy","Drama"],"owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e5"},"title":"Analyze This","director":"Ramis, Harold","format":"DVD","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ed"},"title":"Arthur and the Invisibiles","director":"Besson, Luc","format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Family","Fantasy"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e7"},"title":"Antitrust","director":"Howitt, Peter","format":"DVD","hasvudu":false,"genre":["Action","Crime","Drama","Thriller"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ef"},"collection":"Assume the Position","title":"Assume the Position with Mr. Wuhl","director":["Doob, Nick","Hegedus, Chris","Pennebaker, D.A."],"format":"DVD","hasvudu":false,"genre":["Comedy","Documentary","History","Short"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f2"},"title":"Avengers, The","director":"Whedon, Joss","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f7"},"title":"Bad Boys","director":"Bay, Michael","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2cf"},"title":"13 Going on 30","director":"Winick, Gary","format":"DVD","hasvudu":false,"genre":["Comedy","Fantasy","Romance"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2dd"},"title":"Alice in Wonderland","director":["Geronimi, Clyde","Jackson, Wilfred","Luske, Hamilton"],"format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Family","Fantasy","Musical"],"owner":"Irene","year":"1951"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ec"},"title":"Around the World in 80 Days","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Animation"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ee"},"title":"As Good as it Gets","director":"Brooks, James L.","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f0"},"title":"Australia","director":"Luhrmann, Baz","format":"DVD","hasvudu":false,"genre":["Adventure","Drama","Romance","War"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f8"},"title":"Bad Boys II","director":"Bay, Michael","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2eb"},"title":"Around the World in 80 Days","director":"Coraci, Frank","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Comedy","Family"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f1"},"title":"Avatar, The","format":"DVD","hasvudu":false,"genre":["Fantasy"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f9"},"title":"Bad Santa","director":"Zwigoff, Terry","format":"DVD","hasvudu":false,"genre":["Comedy","Crime","Drama"],"owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2fe"},"title":"Batman","director":"Burton, Tim","format":"DVD","hasvudu":false,"genre":["Action","Adventure"],"owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e4"},"title":"Analyze That","director":"Ramis, Harold","format":"DVD","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2fc"},"title":"Barbarians at the Gate","director":"Jordan, Glenn","format":"DVD","hasvudu":false,"genre":["Biography","Comedy","Drama"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d9"},"title":"Admiral was a Lady, The","director":"Rogell, Albert S.","format":"DVD","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"1950"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce302"},"title":"Beatles Unauthorized","director":["Dunn, John W.","Stahen, Jack","Macdonald II, Tom","Campbell, Ron","Dunning II, George"],"format":"DVD","hasvudu":false,"genre":"Music","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2da"},"title":"After the Sunset","director":"Ratner, Brett","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d6"},"title":"9 to 5","director":"Higgins, Colin","format":"DVD","hasvudu":false,"genre":["Comedy"],"owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e8"},"title":"Any Which Way you Can","director":"Van Horn, Buddy","format":"DVD","hasvudu":false,"genre":["Action","Comedy"],"owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e3"},"title":"An Affair to Remember","director":"McCarey, Leo","format":"DVD","hasvudu":false,"genre":["Drama","Romance"],"owner":"Irene","year":"1957"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2c9"},"title":"2001: A Space Odyssey","director":"Kubrick, Stanley","format":"DVD","hasvudu":false,"genre":["Science Fiction"],"owner":"Irene","year":"1968"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d8"},"title":"Adaption","director":"Jonze, Spike","format":"DVD","hasvudu":false,"genre":["Comedy","Drama"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d2"},"title":"3:10 to Yuma","director":"Mangold, James","format":"DVD","hasvudu":false,"genre":["Adventure","Crime","Drama","Western"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f6"},"title":"Backdraft","director":"Howard, Ron","format":"DVD","hasvudu":false,"genre":["Action","Crime","Drama"],"owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2fb"},"title":"Bandits","director":"Levinson, Barry","format":"DVD","hasvudu":false,"genre":["Comedy","Crime","Drama"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2ce"},"title":"Twelve Monkeys","director":"Gilliam, Terry","format":"Blu-Ray","hasvudu":false,"genre":["Mystery","Science Fiction","Thriller"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d0"},"title":"13th Warrior, The","director":["McTiernan, John","Crichton, Michael"],"format":"DVD","hasvudu":false,"genre":["Action","Adventure","History"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2de"},"title":"All the President's Men","director":"Pakula, Alan J.","format":"DVD","hasvudu":false,"genre":["Biography","Drama","History","Thriller"],"owner":"Irene","year":"1976"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e9"},"title":"Apache","director":"Aldrich, Robert","format":"DVD","hasvudu":false,"genre":["Western"],"owner":"Irene","year":"1954"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f3"},"title":"Babel","director":"Inarritu, Alejandro Gonzalez","format":"DVD","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f5"},"title":"Back to the Future","director":"Zemeckis, Robert","format":"DVD","hasvudu":false,"genre":["Adventure","Comedy","Science Fiction"],"owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e1"},"title":"America's Sweethearts","director":"Roth, Joe","format":"DVD","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2e6"},"title":"And Justice for All","director":"Jewison, Norman","format":"DVD","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"1979"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2f4"},"title":"Bachelor, The","director":"Sinyor, Gary","format":"DVD","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce300"},"title":"Batman \u0026 Robin","director":"Schumacher, Joel","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce303"},"title":"Bee Movie","director":["Smith, Simon J.","Hickner, Steve"],"format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d5"},"title":"50 First Dates","director":"Segal, Peter","format":"DVD","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2dc"},"title":"Alexander","director":"Stone, Oliver","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Biography"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2fd"},"title":"Basic Instinct","director":"Verhoeven, Paul","format":"DVD","hasvudu":false,"genre":["Drama","Mystery","Thriller"],"owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce301"},"title":"Be Kind Rewind","director":"Gondry, Michel","format":"DVD","hasvudu":false,"genre":["Comedy"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce305"},"title":"Beverly Hills Cop II","director":"Scott, Tonly","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2d7"},"title":"Absolute Power","director":"Eastwood, Clint","format":"DVD","hasvudu":false,"genre":["Action","Crime","Drama"],"owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2df"},"title":"American Beauty","director":"Mendes, Sam","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce2fa"},"title":"Banditas","director":"Ronning, Joachim","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce306"},"title":"Big","director":"Marshall, Penny","format":"Blu-Ray","hasvudu":false,"genre":["Commedy","Drama","Family","Fantasy","Romance"],"owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce311"},"title":"Blast from the Past","director":"Wilson, Hugh","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance","Science Fiction"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce320"},"title":"Breach","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce30e"},"title":"Black Snake Moan","director":"Brewer, Craig","format":"DVD","hasvudu":false,"genre":["Drama","Music"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce319"},"title":"Bonnie and Clyde","director":"Penn, Arthur","format":"DVD","hasvudu":false,"genre":["Action","Biography","Crime","Drama"],"owner":"Irene","year":"1967"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce30c"},"title":"Big Lebowski, The","director":["Coen, Joel","Coen, Ethan"],"format":"DVD","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce315"},"title":"Blood on the Sun","director":"Lloyd, Frank","format":"DVD","hasvudu":false,"genre":["Drama","Romance","Thriller","War"],"owner":"Irene","year":"1945"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce307"},"title":"Big Bounce, The","director":"Armitage, George","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce317"},"title":"Bodyguard, The","director":"Jackson, Mick","format":"DVD","hasvudu":false,"genre":["Action","Drama","Music","Romance"],"owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce330"},"title":"Carlito's Way","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce337"},"title":"Catwoman","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce354"},"title":"Collection: John Wayne Western 3-pack","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce355"},"title":"Collection: Man with No Name","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce368"},"title":"Crash","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce37b"},"title":"Demolition Man","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce39e"},"title":"Ever After: A Cinderella Story","director":"Tennant, Andy","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3bb"},"title":"Frida","director":"Taymor, Julie","format":"DVD","hasvudu":false,"genre":["Biography","Drama","Romance"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c6"},"title":"Glee Encore","format":"Blu-Ray","hasvudu":false,"genre":["Music","TV"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e0"},"title":"Harry Potter and the Half-Blood Prince","director":"Yates, David","format":"DVD","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ea"},"title":"High Noon","director":"Zinnemann, Fred","format":"DVD","hasvudu":false,"genre":["Action","Drama","Thriller","Western"],"owner":"Irene","year":"1952"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3f2"},"title":"Hoosiers","director":"Anspaugh, David","format":"DVD","hasvudu":false,"genre":["Drama","Sport"],"owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce401"},"title":"I Think I Love my Wife","director":"Rock, Chris","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce402"},"title":"Ice Age: The Meltdown","director":"Saldanha, Carlos","format":"DVD","hasvudu":false,"genre":["Animation","Action","Adventure","Comedy","Family","Fantasy"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce408"},"title":"In the Line of Fire","director":"Petersen, Wolfgang","format":"DVD","hasvudu":false,"genre":["Action","Crime","Drama","Thriller"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce40d"},"title":"Inspector Gadget","director":"Kellog, David","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Comedy","Family","Science Fiction"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce411"},"title":"Jack Frost","director":"Miller, Troy","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Family","Fantasy"],"owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce422"},"title":"L.A. Confidential","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce428"},"title":"Las Vegas","season":"1, 2","format":"DVD","hasvudu":false,"genre":["Crime","Drama","TV"],"owner":"Warren","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce42c"},"title":"Last Man Standing","director":"Hill, Walter","format":"DVD","hasvudu":false,"genre":["Action","Crime","Drama"],"owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce44b"},"title":"Majestic, The","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce475"},"title":"Myths and Legends Part 2","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce487"},"title":"Oklahoma","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4cb"},"title":"Robin Hood Men in Tights","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ce"},"title":"Rocky Balboa","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4dc"},"title":"Santa Claus III The Escape Clause","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f1"},"title":"Shadow Rider, The","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4fa"},"title":"Shooter","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce502"},"title":"Simpsons, The","season":"8","format":"DVD","hasvudu":false,"genre":["Animation","Comedy","TV"],"owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce517"},"title":"Splash","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1984"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce525"},"title":"Storyteller, The","season":"ALL","format":"DVD","hasvudu":false,"genre":["Adventure","Drama","Family","TV"],"owner":"Irene","year":"1987 - 1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce540"},"title":"Three Men and a Baby","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce553"},"title":"Transporter 3","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce560"},"title":"True Grit","format":"Blu-Ray","hasvudu":false,"genre":"Western","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce335"},"title":"Cat People","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce33a"},"title":"Charlie's Angels","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce33f"},"title":"Chitty Chitty Bang Bang","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1968"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce359"},"title":"Collection: Sinatra","format":"DVD","hasvudu":false,"genre":"","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce37e"},"title":"Diggstown","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce389"},"title":"Doogal","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3af"},"title":"Fish Called Wanda, A","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b6"},"title":"Foul Play","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1978"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c9"},"title":"Golden Compass, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d6"},"title":"Hancock","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ef"},"title":"Hollywood Homocide","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3fb"},"title":"House","season":"ALL","format":"DVD","hasvudu":false,"genre":["Drama","Mystery","TV"],"owner":"Irene","year":"2004 - 2012"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce40b"},"title":"Inside Man","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce420"},"title":"King and I, The (animated)","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce423"},"title":"L.A. Story","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce424"},"title":"Labrynth","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce42f"},"title":"Last Unicorn The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce434"},"title":"Legal Eagles","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce435"},"title":"Legally Blond","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce44d"},"title":"Man of the Year","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce460"},"title":"Mona Lisa Smile","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce46f"},"title":"Music \u0026 Lyrics","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce472"},"title":"Mysteries of the Bible","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce47d"},"title":"Nim's Island","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce485"},"title":"Odyssey, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce48d"},"title":"Open Range","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce498"},"title":"Peter Pan","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c3"},"title":"Return to Me","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e5"},"title":"Scent of a Woman","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e6"},"title":"Scooby-Doo","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4eb"},"title":"Se7en","director":"Fincher, David","format":"DVD","hasvudu":false,"genre":["Crime","Drama","Mystery"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce50e"},"title":"Some Like it Hot","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1959"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce514"},"title":"Spiderman vs. Doc Ock","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce520"},"title":"Stepford Wives, The","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce54c"},"title":"Tourist, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce552"},"title":"Transporter 2","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce56c"},"title":"Ugly Truth, The","format":"Blu-Ray","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce56e"},"title":"Unbreakable","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce580"},"title":"Wedding Date, The","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce582"},"title":"West Side Story","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce592"},"title":"Wonderful Wizard of Oz (animated)","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce321"},"title":"Break-up, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce328"},"title":"Bug's Life A","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce33d"},"title":"Chicken Little","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce350"},"title":"Collection: Bing Crosby Going My Way/Holiday Inn","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce36b"},"title":"Crocodile Dundee","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce36c"},"title":"Cutting Edge The","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce375"},"title":"D-Day","format":"DVD","hasvudu":false,"genre":"History","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce333"},"title":"Castaway","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce392"},"title":"Duel","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1971"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce33b"},"title":"Chasing Amy","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce396"},"title":"Elf","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce345"},"title":"Cinderella Man","format":"DVD","hasvudu":false,"genre":"History","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce397"},"title":"Elizabethtown","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce34c"},"title":"Client The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b4"},"title":"Forrest Gump","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce358"},"title":"Collection: Rogers \u0026 Hammerstein","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b5"},"title":"Fort Apache The Bronx","format":"Blu-Ray","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1981"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce35c"},"title":"Con Air","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3bc"},"title":"Fugitive The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce35e"},"title":"Conspiracy Theory","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3dc"},"title":"Harry Potter and the Chamber of Secrets","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce36d"},"title":"D.O.A.","format":"DVD","hasvudu":false,"genre":"Thriller","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ed"},"title":"Hitman","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce37c"},"title":"Desperado","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3fc"},"title":"Houseboat","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1958"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce381"},"title":"Disclosure","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce387"},"title":"Don Juan DeMarco","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce39c"},"title":"European Vacation","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3fe"},"title":"I am Legend","director":"Lawrence, Francis","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a9"},"title":"Fantastic Four","format":"Blu-Ray","hasvudu":false,"genre":"Action","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce41a"},"title":"Juror, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3aa"},"title":"Farewell to Arms, A","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1932"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce442"},"title":"Lost in Space","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce414"},"title":"Jay and Silent Bob Strike Back","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce456"},"title":"Matrix (duplicate)","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce419"},"title":"Jurassic Park","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce46a"},"title":"Mummy Returns, The","director":"Sommers, Stephen","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Fantasy"],"owner":"Matt","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce425"},"title":"Lady and the Highwayman, The","format":"DVD","hasvudu":false,"genre":"Historical","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce47a"},"title":"Negotiator, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce439"},"title":"Life of Brian","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1979"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce495"},"title":"Peggy Sue Got Married","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce450"},"title":"Man with Two Brains, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce497"},"title":"Percy Jackson \u0026 the Olympians: the Lightning Thief","director":"Columbus, Chris","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce451"},"title":"Manchurian Candidate, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1962"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4cc"},"title":"Robin Hood Prince of Thieves","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce454"},"title":"Match Point","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d1"},"title":"Rookie, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce474"},"title":"Myths and Legends Part 1","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d5"},"title":"Runaway Bride","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce478"},"title":"Chronicles of Narnia: Prince Caspian, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d6"},"title":"Running with Scissors","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce483"},"title":"Ocean's Eleven","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f9"},"title":"Shining, The","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce486"},"title":"O Brother Where Art Thou","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce522"},"title":"Sting The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1973"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce490"},"title":"Over the Hill Gang","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce52c"},"title":"Super Baby Geniuses 2","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce49c"},"title":"Pippin","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1981"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce533"},"title":"Tarzan","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d9"},"title":"Sabrina","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce53c"},"title":"Teenage Mutant Ninja Turtles 3","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e9"},"title":"Scorpion King, The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ee"},"title":"Secret Weapon","format":"DVD","hasvudu":false,"genre":"","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce56a"},"title":"Two Weeks Notice","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce58c"},"title":"Wild Thornberrys Movie, The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce59b"},"title":"Ringling Brothers Zing Zang Zoom","director":"Sawyer, Shanda","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ef"},"title":"Seeker The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a4"},"title":"Mister Roberts","format":"DVD","hasvudu":false,"genre":["Drama","Comedy","War"],"owner":"Irene","year":"1955"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f3"},"title":"Shaggy Dog, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f6"},"title":"Shanghai Noon","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce501"},"title":"Silverado","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce503"},"title":"Simpsons, The","season":"1","format":"DVD","hasvudu":false,"genre":["Animation","Comedy","TV"],"owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce505"},"title":"Sister Act","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce527"},"title":"Stranger than Fiction","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce529"},"title":"Stuck on You","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce52d"},"title":"Sweeney Todd","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce530"},"title":"Sword in the Stone, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1963"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce555"},"title":"xXx: State of the Union","director":"Tamahon, Lee","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Crime","Drama","Mystery","Thriller"],"owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce565"},"title":"Twilight Zone The Volume 2","format":"DVD","hasvudu":false,"genre":["Fantasy","Horror","Mystery","TV"],"owner":"Irene","year":"1959"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce568"},"title":"Twilight: New Moon","format":"Blu-Ray","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce575"},"title":"Van Helsing","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce577"},"title":"Victor/Victoria","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce578"},"title":"Volunteers","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Family","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce31d"},"title":"Boys Don't Cry","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce308"},"title":"Big Chill, The","director":"Kasdan, Lawrence","format":"DVD","hasvudu":false,"genre":["Comedy","Drama"],"owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce336"},"title":"Cats \u0026 Dogs","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce322"},"title":"Brewster's Millions","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce356"},"title":"Collection: Marilyn Monroe","format":"DVD","hasvudu":false,"genre":"","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce339"},"title":"Charlie and the Chocolate Factory","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce35f"},"title":"Constant Gardener, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce34a"},"title":"Clerks","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce366"},"title":"Craft The","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce365"},"title":"Coyote Ugly","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce371"},"title":"Daredevil","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce36f"},"title":"Damn Yankees","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1958"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce384"},"title":"Dodgeball","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce372"},"title":"Daredevil vs. Spiderman","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce385"},"title":"Dogma","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce373"},"title":"Dark Knight","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce394"},"title":"Dungeons \u0026 Dragons","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce38b"},"title":"Dr. Doolittle 2","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3be"},"title":"Galaxy Quest","director":"Parisot, Dean","format":"DVD","hasvudu":false,"genre":["Adventure","Comedy","Science Fiction"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce38d"},"title":"Dracula 2000","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a2"},"title":"Family Guy Partial Terms of Endearment","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b8"},"title":"Freedomland","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3cc"},"title":"Good Morning Vietnam","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3da"},"title":"Hard Times","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1975"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3cd"},"title":"Good Will Hunting","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e2"},"title":"Harry Potter and the Deathly Hallows: Part 2","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2011"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3cf"},"title":"Gothika","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3f0"},"title":"Honey","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d9"},"title":"Happy Feet","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3dd"},"title":"Harry Potter and the Prisoner of Azkaban","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce405"},"title":"If a Man Answers","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1962"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce412"},"title":"January Man","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce404"},"title":"Idiocracy","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce41e"},"title":"Karate Kid, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1984"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce407"},"title":"In \u0026 Out","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce41f"},"title":"Kate \u0026 Leopold","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce418"},"title":"Juno","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce43b"},"title":"Little Mermaid, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce427"},"title":"Ladykillers, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce462"},"title":"Monster House","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce42a"},"title":"Last Boy Scout The","director":"Scott, Tony","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Matt","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce466"},"title":"Mr. \u0026 Mrs. North","format":"DVD","hasvudu":false,"genre":["Comedy","Mystery","Romance","TV"],"owner":"Irene","year":"1952"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce433"},"title":"Leap of Faith","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce46b"},"title":"Mummy, The","director":"Sommers, Stephen","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Fantasy"],"owner":"Matt","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce43f"},"title":"Long Kiss Goodnight, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce473"},"title":"Mystic River","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce479"},"title":"Narnia the Lion the Witch and the Wardrobe","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce484"},"title":"Ocean's Twelve","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce489"},"title":"Omen, The","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce499"},"title":"Phantom, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce48a"},"title":"One Eyed Jacks","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a7"},"title":"Princess Bride, The","format":"Blu-Ray","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4aa"},"title":"Professionals, The","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1966"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b3"},"title":"Raging Bull","format":"DVD","hasvudu":false,"genre":"Biography","owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ac"},"title":"Pulp Fiction","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b7"},"title":"Red Heat","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b9"},"title":"Red Corner","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4af"},"title":"Quantum of Solace","director":"Forster, Marc","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c0"},"title":"Relative Strangers","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4cd"},"title":"Robots","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c4"},"title":"Return to Neverland","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ec"},"title":"Sea of Love","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4dd"},"title":"Santa Claus is Coming to Town","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1970"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ed"},"title":"Secondhand Lions","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4fd"},"title":"Shrek 2","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce516"},"title":"Spiderwick Chronicles, The","format":"DVD","hasvudu":false,"genre":["Adventure","Family","Fantasy"],"owner":"Irene","year":"2008","director":"Waters, Mark"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce515"},"title":"Spiderman the Return of the Green Goblin","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce51f"},"title":"Starship Troopers","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce524"},"title":"Story of Star Wars, The","format":"DVD","hasvudu":false,"genre":"Bonus Material","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce532"},"title":"Talladega Nights","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce53f"},"title":"Thomas Crown Affair, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce535"},"title":"Taxi","season":"ALL","format":"DVD","hasvudu":false,"genre":["Comedy","TV"],"owner":"Irene","year":"1978 - 1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce569"},"title":"Twins","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce558"},"title":"True Blood","season":"ALL","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Fantasy","Mystery","TV"],"owner":"Irene","year":"2008 - 2014"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce572"},"title":"Unfaithful","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Warren","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce57a"},"title":"Walking with Dinosaurs","format":"DVD","hasvudu":false,"genre":"History","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce586"},"title":"Where Eagles Dare","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1968"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce588"},"title":"Who Framed Roger Rabbit","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce334"},"title":"Casualties of War","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce34d"},"title":"Closer","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce361"},"title":"Cooler, The","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce36e"},"title":"Daddy Day Care","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce370"},"title":"Dances with Wolves","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce378"},"title":"Deathproof","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce38a"},"title":"Dr. Doolittle","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce399"},"title":"Eragon","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce39d"},"title":"Evan Almighty","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b2"},"title":"Fools Rush In","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b9"},"title":"Frequency","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3bd"},"title":"Fun with Dick and Jane","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1976"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d4"},"title":"Guarding Tess","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e4"},"title":"Heartbreakers","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e7"},"title":"Her Alibi","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e9"},"title":"High Fidelity","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3f1"},"title":"Hook","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce40a"},"title":"Indiana Jones and the Kingdom of the Crystal Skull","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce410"},"title":"IQ","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce416"},"title":"Joan of Arc","format":"DVD","hasvudu":false,"genre":"Historical","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce464"},"title":"Moonstruck","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce465"},"title":"Mousehunt","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce467"},"title":"Mr. Deeds Goes to Town","director":"Capra, Frank","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"1936"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce48f"},"title":"Over the Hedge","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce49f"},"title":"Polar Express, The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a4"},"title":"Prestige, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b6"},"title":"Rat Pack The","format":"DVD","hasvudu":false,"genre":"Biography","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4bb"},"title":"Red Skelton","format":"DVD","hasvudu":false,"genre":["Comedy","Music","TV"],"owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c8"},"title":"Risky Business","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d0"},"title":"Ronin","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f8"},"title":"Sherlock Holmes","director":"Ritchie, Guy","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Crime","Mystery","Thriller"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce504"},"title":"Singin in the Rain","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1952"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce509"},"title":"Sleepy Hollow","director":"Burton, Tim","format":"DVD","hasvudu":false,"genre":["Fantasy","Horror","Mystery"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce50d"},"title":"Snow White and the Seven Dwarfs","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1937"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce531"},"title":"Take the Lead","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce53d"},"title":"That Old Feeling","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce554"},"title":"Muppet Treasure Island","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce556"},"title":"Triumph of Sherlock Holmes, The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1935"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce587"},"title":"While you were Sleeping","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce589"},"title":"Who's Afriad of Virginia Wolf","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1966"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce594"},"title":"X-Men","director":"Singer, Bryan","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a0"},"title":"Rise of the Planet of the Apes","format":"DVD","hasvudu":true,"genre":["Action","Drama","Science Fiction"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a2"},"title":"Warm Bodies","format":"DVD","hasvudu":true,"genre":["Romance","Comedy","Horror"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a3"},"title":"Coming to America","director":"Landis, John","format":"DVD","hasvudu":true,"genre":["Romance","Comedy"],"owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce30a"},"title":"Big Easy, The","director":"McBride, Jim","format":"DVD","hasvudu":false,"genre":["Comedy","Crime","Drama","Romance","Thriller"],"owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce310"},"title":"Blade Runner","director":"Scott, Ridley","format":"DVD","hasvudu":false,"genre":["Science Fiction","Thriller"],"owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce343"},"title":"Christmas with the Cranks","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce346"},"title":"Cinderella Story, A","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce348"},"title":"Clash of the Titans","format":"Blu-Ray","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce353"},"title":"Collection: Die Hard","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce35a"},"title":"Collection: Vin Diesel","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce35d"},"title":"Conan the Barbarian","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce36a"},"title":"Criminal Minds","season":"1","format":"DVD","hasvudu":false,"genre":["Crime","Drama","History","TV"],"owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ab"},"title":"Fiddler on the Roof","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1971"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b1"},"title":"Flushed Away","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c0"},"title":"General's Daughter, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ca"},"title":"Gone with the Wind","format":"Blu-Ray","hasvudu":false,"genre":"Historical","owner":"Irene","year":"1939"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d3"},"title":"Grosse Pointe Blank","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce440"},"title":"Loony Tunes Back in Action","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce458"},"title":"Medallion, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce459"},"title":"Meet the Fockers","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce482"},"title":"Nurse Betty","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce49b"},"title":"Pink Panther","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1964"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ae"},"title":"Quantum of Solace","director":"Forster, Marc","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b1"},"title":"Quiz Show","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c2"},"title":"Replacements, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d8"},"title":"Rush Hour 3","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e7"},"title":"Scooby-Doo's Original Mysteries","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1984"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ea"},"title":"Secret of Nimh, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f2"},"title":"Shaggy Dog, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1959"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce50c"},"title":"Snow White and the Huntsman","format":"Blu-Ray","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2012"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce510"},"title":"Sound of Music, The","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1965"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce523"},"title":"Storm of the Century","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce541"},"title":"Three Musketeers animated","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce54b"},"title":"Total Recall","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce54d"},"title":"Town \u0026 Country","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce54f"},"title":"Trading Places","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce55f"},"title":"True Crime","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce570"},"title":"Under Suspicion","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce590"},"title":"Wizard of Oz The Muppets","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce597"},"title":"You Can't Take it With You","director":"Capra, Frank","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"1938"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce59f"},"title":"Lucy","format":"Blu-Ray","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"2014"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce312"},"title":"Blazing Saddles","director":"Brooks, Mel","format":"DVD","hasvudu":false,"genre":["Comedy","Western"],"owner":"Irene","year":"1974"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce313"},"title":"Blind Side, The","director":"Hancock, John Lee","format":"Blu-Ray","hasvudu":false,"genre":["Biography","Drama","Sport"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce31f"},"title":"Braveheart","director":"Gibson, Mel","format":"DVD","hasvudu":false,"genre":["Biography","Drama","History","War"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce326"},"title":"Bronco Billy","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce327"},"title":"Bruce Almighty","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce32b"},"title":"Burn After Reading","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce32e"},"title":"Cape Fear","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce32f"},"title":"Cape Fear","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce332"},"title":"Casper","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce357"},"title":"Collection: Marx Brothers","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce360"},"title":"Contender, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce376"},"title":"Dead Pool, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce37a"},"title":"De-Lovely","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce39b"},"title":"Eternal Sunshine of the Spotless Mind","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a3"},"title":"Family Guy Presents Stewie Griffin the Untold Story","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c1"},"title":"Get Christie Love!","director":"Graham, William A.","format":"DVD","hasvudu":false,"genre":["Drama","Crime"],"owner":"Irene","year":"1974"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3cb"},"title":"Good Girl, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ee"},"title":"Hogfather","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce41d"},"title":"Kangaroo Jack","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce421"},"title":"King Arthur","format":"DVD","hasvudu":false,"genre":"Historical","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce438"},"title":"Liar Liar","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce43a"},"title":"Lion King, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce445"},"title":"Lovers and Other Strangers","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1970"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce45a"},"title":"Meet the Robinsons","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce46d"},"title":"Murder at 1600","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce47c"},"title":"Night at the Museum Battle of the Smithsonian","format":"Blu-Ray","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce49d"},"title":"Pirates of the Caribbean Curse of the Black Pearl","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a1"},"title":"Precision Body Sculpting","format":"DVD","hasvudu":false,"genre":"Exercise","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a2"},"title":"Prehistoric Preditors Sabretooth","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4bd"},"title":"Red Skelton three 1/2 hour episodes","format":"DVD","hasvudu":false,"genre":["Comedy","Music","TV"],"owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4bf"},"title":"Reindeer Games","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d3"},"title":"Rumor Has It","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e1"},"title":"Scary Godmother","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f4"},"title":"Shakespeare in Love","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4fb"},"title":"Short Circuit","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce51a"},"title":"Star Trek II the Wrath of Khan","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce51b"},"title":"Star Wars I the Phantom Menace","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce51c"},"title":"Star Wars III Revenge of the Sith","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce53b"},"title":"Teenage Mutant Ninja Turtles 2","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce53e"},"title":"Thelma \u0026 Louise","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce54a"},"title":"Tom Sawyer","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce57d"},"title":"War of the Roses","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce58a"},"title":"Who's Harry Crumb?","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce598"},"title":"You Don't Mess with the Zohan","director":"Dugan, Dennis","format":"DVD","hasvudu":false,"genre":["Action","Comedy"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce316"},"title":"Body Heat","director":"Kasdan, Lawrence","format":"DVD","hasvudu":false,"genre":["Crime","Drama","Romance","Thriller"],"owner":"Irene","year":"1981"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce324"},"title":"Bridges of Madison County","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce329"},"title":"Bullitt","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1968"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce32d"},"title":"Butcher's Wife, The","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce34e"},"title":"Clue","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce34f"},"title":"Cold Mountain","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce383"},"title":"Divine Madness","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce398"},"title":"Entrapment","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a7"},"title":"Family Stone, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d1"},"title":"Grandmas got run over by a Reindeer","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e3"},"title":"Heartbreak Ridge","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce406"},"title":"Igor","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce40e"},"title":"Inspector Gadget 2","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce44f"},"title":"Man on the Moon","format":"DVD","hasvudu":false,"genre":"Biography","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce452"},"title":"Mask, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce45c"},"title":"Mexican, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce469"},"title":"Mrs. Doubtfire","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce49e"},"title":"Planes, Trains, and Automobiles","format":"DVD","hasvudu":false,"genre":["Comedy"],"owner":"Matt","year":"1987","director":"Hughes, John"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a6"},"title":"Primal Fear","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ad"},"title":"Pursuit of Happyness, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b2"},"title":"R.V.","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c6"},"title":"Riding the Bullet","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e0"},"title":"Scarface","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce511"},"title":"Speed","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce512"},"title":"Spider-Man 2","director":"Raimi, Sam","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce547"},"title":"To Die For","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce564"},"title":"Twilight Zone Fan Favorites","format":"DVD","hasvudu":false,"genre":["Fantasy","Horror","Mystery","TV"],"owner":"Irene","year":"1959"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce56d"},"title":"Ultimate Avengers, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce574"},"title":"Unleashed","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Family","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce57c"},"title":"Wall-E","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce58d"},"title":"Willow","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce58e"},"title":"Wimbledon","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce58f"},"title":"Wizard of Oz","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1939"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a5"},"title":"Whole Nine Yards, The","format":"DVD","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce30b"},"title":"Big Fat Liar","director":"Levy, Shawn","format":"DVD","hasvudu":false,"genre":["Adventure","Comedy","Family"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce331"},"title":"Casablanca","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1942"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce318"},"title":"Bolt","director":["Howard, Byron","Williams, Chris"],"format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy","Drama","Family"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce31a"},"title":"Borat","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce31b"},"title":"Bourne Identity, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce31e"},"title":"Bozo the World's Most Famous Clown","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce33c"},"title":"Chicago","director":"Marshall, Rob","format":"DVD","hasvudu":false,"genre":["Comedy","Crime","Musical"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce347"},"title":"City Slickers","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce352"},"title":"Collection: Classical Musicals","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce35b"},"title":"Color of Magic, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce362"},"title":"Copycat","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce374"},"title":"Dave","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce391"},"title":"Dudley Do-Right","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a0"},"title":"Exorcist, The","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1973"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a4"},"title":"Family Guy: Blue Harvest","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ba"},"title":"Freshman, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c7"},"title":"Glengarry Glen Ross","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e8"},"title":"Hercules: The Legendary Journeys","season":"1","format":"DVD","hasvudu":false,"genre":"TV-Fantasy","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3f3"},"title":"House on Haunted Hill","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1959"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce413"},"title":"Jason and the Argonauts","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce41b"},"title":"Just Like Heaven","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce41c"},"title":"Justice League Justice on Trial","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce42d"},"title":"Last Seduction, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce431"},"title":"Laws of Attraction","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce43e"},"title":"Little Vampire, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce444"},"title":"Love Actually","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce446"},"title":"Lucky One, The","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2012"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce449"},"title":"Madeline (live action)","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce44a"},"title":"Mafia The History of the Mob in America","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce47b"},"title":"Night at the Museum","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce488"},"title":"Oliver \u0026 Company","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a0"},"title":"Practical Magic","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ab"},"title":"Protocol","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1984"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b4"},"title":"Rain Man","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b8"},"title":"Reanimated","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ff"},"title":"Sicko","format":"DVD","hasvudu":false,"genre":"Documentary","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce506"},"title":"Six Days/Seven Nights","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce507"},"title":"Sky High","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce518"},"title":"Spy Kids 3D: Game Over","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce521"},"title":"Step-Mom","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce52f"},"title":"Sword and the Sorcerer","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce57b"},"title":"Wall Street","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce57f"},"title":"Wedding Crashers","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce591"},"title":"Wonder Boys","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce59e"},"title":"Zulu","director":"Endfield, Cy","format":"DVD","hasvudu":false,"genre":["Drama","History","War"],"owner":"Irene","year":"1964"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce309"},"title":"Big Daddy","director":"Dugan, Dennis","format":"DVD","hasvudu":false,"genre":["Comedy","Drama"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce314"},"title":"Blood Diamond","director":"Zwick, Edward","format":"DVD","hasvudu":false,"genre":["Adventure","Drama","Thriller"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce341"},"title":"Christmas Carol, A","format":"Blu-Ray","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce342"},"title":"Christmas Carol, The Muppets'","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce34b"},"title":"Clerks II","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce363"},"title":"Corpse Bride","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce377"},"title":"Death Race","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce379"},"title":"Deliver us from Eva","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce38e"},"title":"Dragnet (3 Episodes)","format":"DVD","hasvudu":false,"genre":["Crime","Drama","Mystery","TV"],"owner":"Irene","year":"1967"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a6"},"title":"Family Man, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b3"},"title":"For the Boys","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c2"},"title":"Get Over It","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3db"},"title":"Harry Potter and the Sorcerer's Stone","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce400"},"title":"I, Robot","director":"Proyas, Alex","format":"Blu-Ray","hasvudu":true,"genre":["Action","Crime","Drama"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce40c"},"title":"Insider, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce441"},"title":"Losing Isaiah","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce448"},"title":"Madeline (cartoon)","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce44e"},"title":"Man on Fire","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce463"},"title":"Monster-in-Law","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce46c"},"title":"Munich","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce48c"},"title":"One Night at McCools","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce48e"},"title":"Open Season","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce491"},"title":"Overboard","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce49a"},"title":"Pink Panther","format":"DVD","hasvudu":false,"genre":"Biography","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a5"},"title":"Pretty in Pink","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a8"},"title":"Producers, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1968"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c9"},"title":"Road House","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ca"},"title":"Road to Perdition","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d7"},"title":"Rush Hour 2","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4db"},"title":"Samurai Jack the Premiere Movie","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f7"},"title":"Shawshank Redemption, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4fe"},"title":"Shrek the Third","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce50a"},"title":"Sliding Doors","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce51d"},"title":"Stardust","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce53a"},"title":"Teenage Mutant Ninja Turtles","director":"Barron, Steve","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Comedy","Family","Science Fiction"],"owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce571"},"title":"Underdog","format":"Blu-Ray","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce584"},"title":"What Happens in Vegas","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce595"},"title":"X-Men: United","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce59c"},"title":"Zodiac","director":"Fincher, David","format":"DVD","hasvudu":false,"genre":["Crime","Drama","History","Mystery","Thriller"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a6"},"title":"Ferris Bueller's Day Off","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce32c"},"title":"Burns \u0026 Allen","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1954"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce30d"},"title":"Big Sleep, The","director":"Hawks, Howard","format":"DVD","hasvudu":false,"genre":["Crime","Film-Noir","Mystery","Thriller"],"owner":"Irene","year":"1946"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce30f"},"title":"Blade","director":"Norrington, Stephen","format":"DVD","hasvudu":false,"genre":["Action","Horror"],"owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce338"},"title":"Changeling","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce351"},"title":"Collection: Burbs/Money Pit","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce367"},"title":"Crank","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce37d"},"title":"Deuce Bigelow","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce37f"},"title":"Dirty Dancing","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce382"},"title":"Discpicable Me","format":"Blu-Ray","hasvudu":false,"genre":"Comedy","owner":"Matt","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce395"},"title":"Earthsea","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce39f"},"title":"Everybody Loves Raymond","season":"ALL","format":"DVD","hasvudu":false,"genre":["Comedy","Family","TV"],"owner":"Irene","year":"1996 - 2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ac"},"title":"Finding Neverland","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3bf"},"title":"Garfield A Tale of Two Kitties","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c4"},"title":"Ghostbusters","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c5"},"title":"Gladiator","format":"DVD","hasvudu":false,"genre":"Historical","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c8"},"title":"Godzilla","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3de"},"title":"Harry Potter and the Goblet of Fire","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3df"},"title":"Harry Potter and the Order of the Phoenix","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3eb"},"title":"His Girl Friday","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1940"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3fd"},"title":"How to Train Your Dragon","format":"Blu-Ray","hasvudu":false,"genre":"Family","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce42b"},"title":"Last Holiday","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce447"},"title":"Made in America","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce455"},"title":"Matrix, The","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce45f"},"title":"Mixed Nuts","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce46e"},"title":"Murphy's Romance","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce477"},"title":"Naked Gun 2-1/2 the Smell of Fear, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce48b"},"title":"One Flew Over the Cuckoo's Nest","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1975"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce494"},"title":"Patriot, The","format":"DVD","hasvudu":false,"genre":"Historical","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce496"},"title":"Pelican Brief, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b0"},"title":"Quick and the Dead, The","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c5"},"title":"Ricochet","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1991"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c7"},"title":"Rising Sun","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4de"},"title":"Saved","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce50f"},"title":"Son of the Mask","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce526"},"title":"Straight Talk","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce52b"},"title":"Suicide Kings","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1997"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce534"},"title":"Tarzan \u0026 Jane","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce548"},"title":"To Kill a Mockingbird","format":"Blu-Ray","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1962"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce551"},"title":"Transformers Revenge of the Fallen","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce563"},"title":"Twilight","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce57e"},"title":"Water Horse, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce581"},"title":"Wedding Planner The","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce585"},"title":"What Women Want","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce58b"},"title":"Wild, The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce593"},"title":"Working Girl","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce59d"},"title":"Zoom","director":"Hewitt, Peter","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Comedy","Family","Science Fiction"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce5a1"},"title":"Dawn of the Planet of the Apes","genre":["Action","Adventure","Drama"],"format":"Blu-Ray","hasvudu":true,"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce31c"},"title":"Bourne Supremacy, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce32a"},"title":"Bullworth","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce386"},"title":"Domino","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce38f"},"title":"Dreamcatcher","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce390"},"title":"Dressed to Kill","format":"DVD","hasvudu":false,"genre":"","owner":"Irene","year":"1980"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce393"},"title":"Dumbo","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1941"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ad"},"title":"Firewall","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b0"},"title":"Flashdance","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d7"},"title":"Hang 'Em High","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1968"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce403"},"title":"Ice Harvest, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce415"},"title":"Jimmy Neutron: Boy Genius","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce426"},"title":"Ladyhawke","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce430"},"title":"Law \u0026 Order","season":"14","format":"DVD","hasvudu":false,"genre":["Crime","Drama","Mystery","TV"],"owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce436"},"title":"Legally Blond 2: Red, White \u0026 Blonde","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce43c"},"title":"Little Miss Sunshine","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce43d"},"title":"Little Shop of Horrors","director":"Oz, Frank","format":"DVD","hasvudu":false,"genre":["Comedy","Family","Musical","Romance","Science Fiction"],"owner":"Irene","year":"1986"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce443"},"title":"Lost in Translation","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce457"},"title":"McClintock","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1963"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce461"},"title":"Monster","format":"DVD","hasvudu":false,"genre":"Biography","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce47e"},"title":"No Country for Old Men","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce481"},"title":"Now and Then","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a3"},"title":"Premonition","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4a9"},"title":"Leon, the Professional","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4bc"},"title":"Red Skelton Vol. 1","format":"DVD","hasvudu":false,"genre":["Comedy","Music","TV"],"owner":"Irene","year":"1961"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4c1"},"title":"Rent","format":"DVD","hasvudu":false,"genre":"Musical","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d4"},"title":"Run Down, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4da"},"title":"Sahara","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4df"},"title":"Say it isn't So","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e4"},"title":"Scary Movie 4 Bonus Disk","format":"DVD","hasvudu":false,"genre":"Bonus Material","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e8"},"title":"Score, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce508"},"title":"Sleepless in Seattle","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce513"},"title":"Spider-man 3 Bonus DVD","format":"DVD","hasvudu":false,"genre":"Bonus Material","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce546"},"title":"TMNT cgi","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce549"},"title":"Tom \u0026 Jerry","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce54e"},"title":"Toy Story 3","director":"Unkrich, Lee","format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Fantasy"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce562"},"title":"Tuxedo, The","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce56b"},"title":"U.S. Marshalls","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce573"},"title":"Unforgiven","format":"DVD","hasvudu":false,"genre":"Western","owner":"Warren","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce576"},"title":"Vera Cruz","format":"DVD","hasvudu":false,"genre":"Western","owner":"Warren","year":"1954"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce583"},"title":"What a Girl Wants","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce596"},"title":"X-Men: Last Stand","director":"Ratner, Brett","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Fantasy"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce59a"},"title":"Zathura: A Space Adventure","director":"Favreau, Jon","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Comedy","Family","Fantasy","Science Fiction"],"owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce323"},"title":"Bridge to Teabithia","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce325"},"title":"Bring it On","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce340"},"title":"Chocolat","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce344"},"title":"Cinderella","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1950"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce349"},"title":"Clear and Present Danger","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce364"},"title":"Country Bears, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce380"},"title":"Dirty Harry","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1971"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce39a"},"title":"Erin Brockovitch","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a1"},"title":"Fair Game","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3b7"},"title":"Fox and the Hound, The","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1981"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3c3"},"title":"Ghost Town","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ce"},"title":"Goodfellas","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d0"},"title":"Grammar for All","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":""}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d8"},"title":"Happily N'Ever After","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e1"},"title":"Harry Potter and the Deathly Hallows: Part 1","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e6"},"title":"Help The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2011"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ff"},"title":"I Heart Huckabees","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce409"},"title":"Independence Day","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce40f"},"title":"Invincible","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce417"},"title":"Jumanji","director":"Johnston, Joe","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Family"],"owner":"Matt","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce42e"},"title":"Last Starfighter, The","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1984"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce432"},"title":"League of their Own, A","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce437"},"title":"Legends of the Fall","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce453"},"title":"Matador, The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce45b"},"title":"Mercury Rising","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1998"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce468"},"title":"Mr. Moto's Last Warning","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1939"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce480"},"title":"Notting Hill","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce492"},"title":"PageMaster, The","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4ba"},"title":"Red River","format":"DVD","hasvudu":false,"genre":"Western","owner":"Irene","year":"1948"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4be"},"title":"Ref., The","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4cf"},"title":"Roman Holiday","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1953"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e2"},"title":"Scary Movie 3","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce500"},"title":"Silver Bullet","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce52a"},"title":"Suddenly","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1954"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce52e"},"title":"Sweet Home Alabama","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"2002"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce542"},"title":"Three Musketeers Disney's","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1993"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce543"},"title":"Three to Tango","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce544"},"title":"Til the Clouds Roll By","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1946"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce545"},"title":"Time to Kill A","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce561"},"title":"Truth About Cats and Dogs, The","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce567"},"title":"Twilight: Eclipse","format":"Blu-Ray","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2010"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce56f"},"title":"Under Siege","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce33e"},"title":"Chicken Run","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce369"},"title":"Creep Show","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1982"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce388"},"title":"Don't Say a Word","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2001"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce38c"},"title":"Dracula","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a5"},"title":"Family Guy: Something Something Something Dark Side","format":"Blu-Ray","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2009"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3a8"},"title":"Fantastic Four","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ae"},"title":"First Knight","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d2"},"title":"Green Mile, The","format":"DVD","hasvudu":false,"genre":"Fantasy","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3d5"},"title":"Gulliver's Travels","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1996"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3e5"},"title":"Hellboy II: The Golden Army","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce3ec"},"title":"History of Violence, A","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce44c"},"title":"Maltese Falcon, The","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1941"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce45d"},"title":"Miami Rhapsody","format":"DVD","hasvudu":false,"genre":"Romance","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce45e"},"title":"Mirror Mirror","format":"Blu-Ray","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2012"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce470"},"title":"My Best Friend's Wedding","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1997","director":"Hogan, P.J."}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce471"},"title":"My Side of the Mountain","format":"DVD","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"1969"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce476"},"title":"Nacho Libre","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce47f"},"title":"Norbit","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce493"},"title":"Patriot Games","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4b5"},"title":"Raising Cain","format":"DVD","hasvudu":false,"genre":"Horror","owner":"Irene","year":"1992"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4d2"},"title":"Roxanne","format":"DVD","hasvudu":false,"genre":"Romantic Comedy","owner":"Irene","year":"1987"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4e3"},"title":"Scary Movie 4","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2006"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f0"},"title":"Serial Killers","format":"DVD","hasvudu":false,"genre":"Educational","owner":"Irene","year":"1995"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4f5"},"title":"Shanghai Knights","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2003"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce4fc"},"title":"Show Girls","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce50b"},"title":"Snatch","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce519"},"title":"Star 80","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce51e"},"title":"Stargate","format":"DVD","hasvudu":false,"genre":"Science Fiction","owner":"Irene","year":"1994"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce528"},"title":"Stuart Little","format":"DVD","hasvudu":false,"genre":"Family","owner":"Irene","year":"1999"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce550"},"title":"Transformers","format":"DVD","hasvudu":false,"genre":"Action","owner":"Irene","year":"2007"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce557"},"title":"Troy","format":"DVD","hasvudu":false,"genre":"History","owner":"Irene","year":"2004"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce566"},"title":"Twilight: Breaking Dawn","format":"Blu-Ray","hasvudu":false,"genre":"Romance","owner":"Irene","year":"2011"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce579"},"title":"Walk the Line","format":"DVD","hasvudu":false,"genre":"Biography","owner":"Family","year":"2005"}
+{"_id":{"$oid":"59f7b405db5ad0ff477ce599"},"title":"Zack and Miri Make a Porno","director":"Smith, Kevin","format":"DVD","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"59f9be5d8f9b592434f0d394"},"title":"Bedazzled","director":"Ramis, Harold","format":"DVD","hasvudu":false,"genre":["Comedy","Fantasy"],"owner":"Irene","year":"2000"}
+{"_id":{"$oid":"59f9c1158f9b592434f0d395"},"title":"Dark Tower, The","format":"4K","hasvudu":true,"genre":["Action","Adventure","Fantasy"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"59f9ca538f9b592434f0d397"},"title":"Outrage, The","format":"DVD","hasvudu":false,"genre":["Drama","Western","Crime"],"owner":"Irene","year":"1964"}
+{"_id":{"$oid":"59f9cf0c8f9b592434f0d398"},"title":"Rick and Morty Season 1","format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy"],"owner":"Matt","year":"2013"}
+{"_id":{"$oid":"5a21d7f3a8dc6c1da839faff"},"title":"Princess and the Frog, The","director":"Clements, Ron","format":"Blu-Ray","hasvudu":true,"genre":["Animation","Adventure","Comedy"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a3e770ac1911c30300516d4"},"title":"10th Kingdom, The","director":["Carson, David","Wise, Herbert"],"format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Comedy","Family"],"owner":"Irene","year":"2000"}
+{"_id":{"$oid":"5a3fa4147f59d71f9cf18274"},"title":"Lego Ninjaga Movie, The","format":"4K","hasvudu":true,"genre":["Animation","Action","Adventure"],"owner":"Matt","year":"2017"}
+{"_id":{"$oid":"5a428d05118dde1bf0112a6a"},"title":"Hitman's Bodyguard, The","director":"Hughes, Patrick","format":"4K","hasvudu":true,"genre":["Action","Comedy"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a559e00c675473e18d15be3"},"title":"It","director":"Muschietti, Andy","format":"4K","hasvudu":true,"genre":["Drama","Horror","Thriller"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a559f90c675473e18d15be4"},"title":"It","director":"Wallace, Tommy Lee","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Horror","Mystery"],"owner":"Irene","year":"1990"}
+{"_id":{"$oid":"5a55ad0ac675473e18d15be6"},"title":"Masterminds","director":"Hess, Jared","format":"Blu-Ray","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55afecc675473e18d15be8"},"title":"Planes, Trains, and Automobiles","director":"Hughes, John","format":"Blu-Ray","hasvudu":true,"genre":["Comedy"],"owner":"Irene","year":"1987"}
+{"_id":{"$oid":"5a55b07ec675473e18d15be9"},"title":"Rick and Morty Season 2","format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy"],"owner":"Matt","year":"2014"}
+{"_id":{"$oid":"5a55b18dc675473e18d15bea"},"title":"Groundhog Day","director":"Ramis, Harold","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Fantasy","Romance"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"5a55b369c675473e18d15bec"},"title":"Girl on the Train, The","director":"Taylor, Tate","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Drama","Mystery"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55b438c675473e18d15bed"},"title":"National Treasure","director":"Turteltaug, John","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Family"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a55b59ec675473e18d15bee"},"title":"National Treasure 2: Book of Secrets","director":"Turteltaug, John","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Family"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a55b625c675473e18d15bef"},"title":"Magnificent Seven, The","director":"Fuqua, Antoine","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Western"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55b6d6c675473e18d15bf0"},"title":"Pete's Dragon","director":"Lowery, David","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Comedy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55b781c675473e18d15bf1"},"title":"Proposal, The","director":"Fletcher, Anne","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a55b819c675473e18d15bf2"},"title":"Abraham Lincoln, Vampire Hunter","director":"Bekmambetov, Timur","format":"Blu-Ray","hasvudu":false,"genre":["Action","Fantasy","Horror"],"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"5a55b912c675473e18d15bf3"},"title":"Secret Life of Pets, The","director":"Renaud, Chris","format":"Blu-Ray","hasvudu":true,"genre":["Animation","Adventure","Comedy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55b9e3c675473e18d15bf4"},"title":"Split","director":"Shyamalan, M. Night","format":"Blu-Ray","hasvudu":true,"genre":["Horror","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55bf92c675473e18d15bf5"},"title":"Accountant, The","director":"O'Connor, Gavin","format":"Blu-Ray","hasvudu":true,"genre":["Action","Crime","Drama"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55c013c675473e18d15bf6"},"title":"BFG, The","director":"Spielberg, Steven","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Family","Fantasy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55c0c4c675473e18d15bf7"},"title":"Spy","director":"Feig, Paul","format":"Blu-Ray","hasvudu":true,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a55c144c675473e18d15bf8"},"title":"Mechanic: Ressurrection","director":"Gansel, Dennis","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Crime"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55c200c675473e18d15bf9"},"title":"X-Men: Apocalypse","director":"Singer, Bryan","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55c550c675473e18d15bfa"},"title":"Se7en","director":"Fincher, David","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Mystery"],"owner":"Matt","year":"1995"}
+{"_id":{"$oid":"5a55d131c675473e18d15bfb"},"title":"Friends","season":"ALL","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Romance","TV"],"owner":"Irene","year":"1994"}
+{"_id":{"$oid":"5a55d1d6c675473e18d15bfc"},"title":"I Dream of Jeannie","season":"ALL","format":"DVD","hasvudu":false,"genre":["Comedy","Family","Fantasy","TV"],"owner":"Irene","year":"1965 - 1970"}
+{"_id":{"$oid":"5a55d5d8c675473e18d15bfd"},"title":"Back to the Future 25th Anniversary Trilogy","director":"Zemeckis, Robert","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Comedy","Science Fiction"],"owner":"Irene","year":"1985"}
+{"_id":{"$oid":"5a55d795c675473e18d15bfe"},"title":"Jason Bourne","director":"Greengrass, Paul","format":"Blu-Ray","hasvudu":true,"genre":["Action","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a55d8b5c675473e18d15bff"},"title":"The Russians are Coming! The Russians are Coming!","director":"Jewison, Norman","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","War"],"owner":"Irene","year":"1966"}
+{"_id":{"$oid":"5a55d965c675473e18d15c00"},"title":"Breakfast Club, The","director":"Hughes, John","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Drama"],"owner":"Irene","year":"1985"}
+{"_id":{"$oid":"5a55da57c675473e18d15c01"},"title":"Big Hero 6","director":["Hall, Don","Williams, Chris"],"format":"Blu-Ray","hasvudu":true,"genre":["Animation","Action","Adventure"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a55db33c675473e18d15c02"},"title":"Epic","director":"Wedge, Chris","format":"Blu-Ray","hasvudu":true,"genre":["Animation","Adventure","Family"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a55dbd4c675473e18d15c03"},"title":"Spotlight","director":"McCarthy, Tom","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Drama","History"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a55dc51c675473e18d15c04"},"title":"Caddyshack","director":"Ramis, Harold","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Sport"],"owner":"Irene","year":"1980"}
+{"_id":{"$oid":"5a55dcd1c675473e18d15c05"},"title":"Saving Mr. Banks","director":"Hancock, John Lee","format":"Blu-Ray","hasvudu":true,"genre":["Biography","Comedy","Drama"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a55dd40c675473e18d15c06"},"title":"Office Space","director":"Judge, Mike","format":"Blu-Ray","hasvudu":true,"genre":["Comedy"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"5a55df84c675473e18d15c07"},"title":"Dungeons \u0026 Dragons","season":"ALL","format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Comedy","TV"],"owner":"Irene","year":"1983 - 1985"}
+{"_id":{"$oid":"5a55e137c675473e18d15c08"},"title":"Frankenstein","director":"Connor, Kevin","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Horror","Science Fiction","TV"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a55e203c675473e18d15c0a"},"title":"X-Men: Days of Future Past","director":"Singer, Bryan","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a55e2cdc675473e18d15c0b"},"title":"Brave New World","director":["Libman, Leslie","Williams, Larry"],"format":"DVD","hasvudu":false,"genre":["Drama","Science Fiction"],"owner":"Irene","year":"1998"}
+{"_id":{"$oid":"5a55e363c675473e18d15c0c"},"title":"1984","director":"Anderson, Michael","format":"DVD","hasvudu":false,"genre":["Drama","Science Fiction"],"owner":"Irene","year":"1956"}
+{"_id":{"$oid":"5a560e0cc675473e18d15c0d"},"title":"Shining, The","director":"Kubrick, Stanley","format":"DBD","hasvudu":false,"genre":["Drama","Horror"],"owner":"Irene","year":"1980"}
+{"_id":{"$oid":"5a560f05c675473e18d15c0e"},"title":"Anchorman: The Legend of Ron Burgundy","director":"McKay, Adam","format":"Blu-Ray","hasvudu":false,"genre":["Comedy"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a5613b5c675473e18d15c0f"},"title":"Beetlejuice","director":"Burton, Tim","format":"DVD","hasvudu":false,"genre":["Comedy","Fantasy"],"owner":"Irene","year":"1988"}
+{"_id":{"$oid":"5a561965c675473e18d15c10"},"title":"Beverly Hills Cop","director":"Scott, Tony","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"1984"}
+{"_id":{"$oid":"5a561a05c675473e18d15c11"},"title":"About Time","director":"Curtis, Richard","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Drama","Fantasy"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a561b68c675473e18d15c13"},"title":"Jumanji","director":"Johnston, Joe","format":"4K","hasvudu":true,"genre":["Action","Adventure","Family"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"5a561c4cc675473e18d15c15"},"title":"Big Country, The","director":"Wyler, William","format":"DVD","hasvudu":false,"genre":["Romance","Western"],"owner":"Irene","year":"1958"}
+{"_id":{"$oid":"5a561d4ac675473e18d15c16"},"title":"Bourne Trilogy, The","format":"Blu-Ray","hasvudu":false,"genre":["Action","Mystery","Thriller"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"5a577c37f768c4321442889f"},"title":"I am Legend","director":"Lawrence, Francis","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Horror","Science Fiction"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a57846ef768c432144288a0"},"title":"Lethal Weapon","director":"Donner, Richard","format":"DVD","hasvudu":false,"genre":["Action","Crime","Thriller"],"owner":"Irene","year":"1987"}
+{"_id":{"$oid":"5a65f81b4389040374095fc2"},"title":"Big Sick, The","director":"Showalter, Michael","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a65f8f04389040374095fc3"},"title":"Spider-Man 3","director":"Raimi, Sam","format":"4K","hasvudu":false,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a65fb064389040374095fc4"},"title":"Deadpool","director":"Miller, Tim","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Comedy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a65fba64389040374095fc5"},"title":"Ex Machina","director":"Garland, Alex","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Mystery","Science Fiction"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a65fc434389040374095fc6"},"title":"Life","director":"Espinosa, Daniel","format":"Blu-Ray","hasvudu":true,"genre":["Horror","Science Fiction","Thriller"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a6600d34389040374095fc7"},"title":"Star Trek","director":"Abrams, J.J.","format":"4K","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a66028c4389040374095fc8"},"title":"M*A*S*H","director":"Altman, Robert","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Drama","War"],"owner":"Irene","year":"1970"}
+{"_id":{"$oid":"5a6607d74389040374095fc9"},"title":"American Hustle","director":"Russell, David O.","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Drama"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a6608794389040374095fca"},"title":"Great Race, The","director":"Edwards, Blake","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Comedy","Romance"],"owner":"Irene","year":"1965"}
+{"_id":{"$oid":"5a6ccc36de582a57049b34d9"},"title":"Battle of the Sexes","director":["Dayton, Jonathan","Faris, Valerie"],"format":"Blu-Ray","hasvudu":true,"genre":["Biography","Comedy","Drama"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a6cce38de582a57049b34da"},"title":"American Made","director":"Liman, Doug","format":"Blu-Ray","hasvudu":true,"genre":["Action","Biography","Comedy"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a6ccf4fde582a57049b34db"},"title":"War for the Planet of the Apes","director":"Reeves, Matt","format":"4K","hasvudu":true,"genre":["Action","Adventure","Drama"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a6cd01bde582a57049b34dc"},"title":"Osiris Child, The","director":"Abbess, Shane","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Drama","Horror","Science Fiction","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a6cd0dbde582a57049b34dd"},"title":"Despicable Me","director":["Coffin, Pierre","Renaud, Chris"],"format":"4K","hasvudu":true,"genre":["Animation","Adventure","Comedy","Family"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a6cd18bde582a57049b34de"},"title":"Despicable Me 2","director":["Coffin, Pierre","Renaud, Chris"],"format":"4K","hasvudu":true,"genre":["Animation","Adventure","Comedy","Family","Science Fiction"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a6ce17a7a32e026488163e9"},"collection":"Coen Brothers","title":"Blood Simple","director":["Coen, Joel","Coen, Ethan"],"format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"1984"}
+{"_id":{"$oid":"5a6ce2ea7a32e026488163ea"},"collection":"Coen Brothers","title":"Raising Arizona","director":["Coen, Joel","Coen, Ethan"],"format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"1987"}
+{"_id":{"$oid":"5a6ce3b27a32e026488163eb"},"collection":"Coen Brothers","title":"Miller's Crossing","director":["Coen, Joel","Coen, Ethan"],"format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"1990"}
+{"_id":{"$oid":"5a6ce48b7a32e026488163ec"},"collection":"Coen Brothers","title":"Fargo","director":["Coen, Joel","Coen, Ethan"],"format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"1996"}
+{"_id":{"$oid":"5a6ce8917a32e026488163ed"},"title":"American Graffiti","director":"Lucas, George","edition":"Special Edition","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Drama"],"owner":"Matt","year":"1973"}
+{"_id":{"$oid":"5a6ce94b7a32e026488163ee"},"title":"Chitty Chitty Bang Bang","director":"Hughes, Ken","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Musical"],"owner":"Matt","year":"1968"}
+{"_id":{"$oid":"5a6ce9f97a32e026488163ef"},"title":"Muppets Movie, The","edition":"The Nearly 35th Anniversary Edition","director":"Bobin, James","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Comedy","Family","Musical"],"owner":"Matt","year":"1979"}
+{"_id":{"$oid":"5a6ceaf87a32e026488163f0"},"title":"Edward Scissorhands","director":"Burton, Tim","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Fantasy","Romance"],"owner":"Matt","year":"1990"}
+{"_id":{"$oid":"5a6ceb777a32e026488163f1"},"title":"Buffy the Vampire Slayer","director":"Kuzui, Fran Rubel","format":"Blu-Ray","hasvudu":true,"genre":["Action","Comedy","Fantasy","Horror"],"owner":"Matt","year":"1992"}
+{"_id":{"$oid":"5a6cec597a32e026488163f2"},"title":"Martian, The","edition":"Extended","director":"Scott, Ridley","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Drama","Science Fiction"],"owner":"Matt","year":"2015"}
+{"_id":{"$oid":"5a6cecfb7a32e026488163f3"},"title":"Dreamgirls","edition":"Directors Extended Edition","director":"Condon, Bill","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Music","Musical"],"owner":"Matt","year":"2006"}
+{"_id":{"$oid":"5a6ced947a32e026488163f4"},"title":"Oliver and Company","edition":"20th Anniversary","director":"Scribner, George","format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Musical"],"owner":"Matt","year":"1988"}
+{"_id":{"$oid":"5a6d11794ff5492068372167"},"title":"Simpsons Movie, The","director":"Silverman, David","format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy"],"owner":"Matt","year":"2007"}
+{"_id":{"$oid":"5a6d122a4ff5492068372168"},"title":"Superman the Movie","edition":"Extended Cut","director":"Donner, Richard","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Drama","Science Fiction"],"owner":"Matt","year":"1978"}
+{"_id":{"$oid":"5a6d13544ff5492068372169"},"title":"Superman the Movie","edition":"Special Edition","director":"Donner, Richard","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Drama","Science Fiction"],"owner":"Matt","year":"1978"}
+{"_id":{"$oid":"5a6d13604ff549206837216a"},"title":"Wizard of Oz, The","edition":"70th Anniversary Edition","director":["Fleming, Victor","Cukor, George","LeRoy, Mervyn","Taurog, Norman","Vidor, King"],"format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Musical"],"Owner":"Matt","year":"1939"}
+{"_id":{"$oid":"5a6d14674ff549206837216b"},"title":"Wiz, The","director":"Lumet, Sidney","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Musical"],"owner":"Matt","year":"1978"}
+{"_id":{"$oid":"5a7200df14230b0e049980a0"},"collection":"Clint Eastwood Western Collection","title":"Two Mules for Sister Sara","director":"Siegel, Don","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Romance","War","Western"],"owner":"Irene","year":"1970"}
+{"_id":{"$oid":"5a7202e414230b0e049980a1"},"collection":"Clint Eastwood Western Collection","title":"Joe Kidd","director":"Sturges, John","format":"Blu-Ray","hasvudu":false,"genre":"Western","owner":"Irene","year":"1972"}
+{"_id":{"$oid":"5a72034914230b0e049980a2"},"collection":"Clint Eastwood Western Collection","title":"High Plains Drifter","director":"Sturges, John","format":"Blu-Ray","hasvudu":false,"genre":["Mystery","Western"],"owner":"Irene","year":"1973"}
+{"_id":{"$oid":"5a72038214230b0e049980a3"},"collection":"Clint Eastwood Thriller Collection","title":"Coogan's Bluff","director":"Siegel, Don","format":"Blu-Ray","hasvudu":false,"genre":["Action","Comedy","Crime","Thriller"],"owner":"Irene","year":"1968"}
+{"_id":{"$oid":"5a72042c14230b0e049980a4"},"collection":"Clint Eastwood Thriller Collection","title":"Beguiled, The","director":"Siegel, Don","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Thriller","War"],"owner":"Irene","year":"1971"}
+{"_id":{"$oid":"5a7204b114230b0e049980a5"},"collection":"Clint Eastwood Thriller Collection","title":"Play Misty for Me","director":"Eastwood, Clint","format":"Blu-Ray","hasvudu":false,"genre":"Thriller","owner":"Irene","year":"1971"}
+{"_id":{"$oid":"5a72073c14230b0e049980a6"},"collection":"Clint Eastwood Thriller Collection","title":"Eiger Sanction, The","director":"Eastwood, Clint","format":"Blu-Ray","hasvudu":false,"genre":["Action","Crime","Thriller"],"owner":"Irene","year":"1975"}
+{"_id":{"$oid":"5a72a85014230b0e049980a7"},"collection":"Double Feature","title":"Uncle Buck","director":"Hughes, John","format":"Blu-Ray","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1989"}
+{"_id":{"$oid":"5a72a8e414230b0e049980a8"},"collection":"Double Feature","title":"Fletch","director":"Ritchie, Michael","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Crime","Mystery"],"owner":"Irene","year":"1985"}
+{"_id":{"$oid":"5a734cdacca261483c772515"},"collection":"Hobbit, The Motion Picture Trilogy","title":"Hobbit, The: An Unexpected Journey","edition":"Extended Edition","director":"Jackson, Peter","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Family","Fantasy"],"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"5a734fe3cca261483c772519"},"collection":"Hobbit, The Motion Picture Trilogy","title":"Hobbit, The: The Desolation of Smaug","edition":"Extended Edition","director":"Jackson, Peter","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Fantasy"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a735104cca261483c77251a"},"collection":"Hobbit, The Motion Picture Trilogy","title":"Hobbit, The: The Battle of Five Armies","edition":"Extended Edition","director":"Jackson, Peter","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Fantasy"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a735241cca261483c77251c"},"title":"3rd Rock from the Sun","season":"ALL","format":"DVD","hasvudu":false,"genre":["Comedy","Family","Science Fiction"],"owner":"Irene","year":"1996 - 2001"}
+{"_id":{"$oid":"5a735c40cca261483c77251d"},"collection":"Assume the Position","title":"Assume the Position 201 with Mr. Wuhl","director":["Reiser, Will","Reynolds, Rebecca","Stephen, Allan","Wuhl, Robert"],"format":"DVD","hasvudu":false,"genre":["Comedy","History","Short"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a736185cca261483c77251f"},"title":"SpongeBob Movie: Sponge Out of Water, The","director":["Tibbitt, Paul","Mitchell, Mike"],"format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Fantasy"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a73624dcca261483c772520"},"title":"Hungarian Rhapsody Queen Live in Budapest","director":"Zsombolyai, Janos","format":"DVD","hasvudu":false,"genre":["Documentary","Music"],"owner":"Matt","year":"1987"}
+{"_id":{"$oid":"5a73632acca261483c772521"},"title":"Weird Al Yankovic: The Ultimate Video Collection","director":["Levey, Jay","Weird Al Yankovic","Delia, Frances","Greek, Janet","Nordlund, Scott","Osborne, Mark","Soref, Dror","Weiss, Robert K."],"format":"DVD","hasvudu":false,"genre":["Comedy","Music"],"owner":"Matt","year":"2003"}
+{"_id":{"$oid":"5a7365a8cca261483c772522"},"collection":"Tobey Maguire Spider-Man","edition":"Limited Edition Collection","title":"Spider-Man","director":"Raimi, Sam","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Matt","year":"2002"}
+{"_id":{"$oid":"5a73667ecca261483c772523"},"collection":"Tobey Maguire Spider-Man","edition":"Limited Edition Collection","title":"Spider-Man 2","director":"Raimi, Sam","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Matt","year":"2004"}
+{"_id":{"$oid":"5a7366d0cca261483c772524"},"collection":"Tobey Maguire Spider-Man","edition":"Limited Edition Collection","title":"Spider-Man 3","director":"Raimi, Sam","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Matt","year":"2007"}
+{"_id":{"$oid":"5a736a93cca261483c772525"},"title":"Mary Tyler Moore Show, The","season":"1, 2, 3, 4, 6","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1970 - 1973, 1975"}
+{"_id":{"$oid":"5a736b9dcca261483c772526"},"title":"Citizen Kane","director":"Welles, Orson","format":"DVD","hasvudu":false,"genre":["Drama","Mystery"],"owner":"Irene","year":"1941"}
+{"_id":{"$oid":"5a736cabcca261483c772527"},"title":"Andromeda Strain, The","director":"Salomon, Mikael","format":"DVD","hasvudu":false,"genre":["Action","Drama","Mini-series","Science Fiction","Thriller"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"5a736d94cca261483c772528"},"collection":"Classic Western Collection","title":"Hondo","director":"Farrow, John","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Romance","War","Western"],"owner":"Irene","year":"1953"}
+{"_id":{"$oid":"5a736e82cca261483c772529"},"collection":"Classic Western Collection","title":"Once Upon a Time in the West","director":"Leone, Sergio","format":"Blu-Ray","hasvudu":false,"genre":"Western","owner":"Irene","year":"1968"}
+{"_id":{"$oid":"5a736ecacca261483c77252a"},"collection":"Classic Western Collection","title":"True Grit","director":"Hathaway, Henry","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Drama","Western"],"owner":"Irene","year":"1969"}
+{"_id":{"$oid":"5a736fe9cca261483c77252b"},"collection":"Triple Feature","title":"Duets","director":"Paltrow, Bruce","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Music","Romance"],"owner":"Irene","year":"2000"}
+{"_id":{"$oid":"5a737104cca261483c77252c"},"collection":"Triple Feature","title":"South Pacific","director":"Pearce, Richard","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Musical","Romance","War"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a73715dcca261483c77252d"},"collection":"Triple Feature","title":"Cradle will Rock","director":"Robbins, Tim","format":"DVD","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"5a7371dfcca261483c77252e"},"collection":"Greatest Classic Legends","title":"Calamity Jane","director":"Butler, David","format":"DVD","hasvudu":false,"genre":["Comedy","Musical","Romance","Western"],"owner":"Irene","year":"1953"}
+{"_id":{"$oid":"5a7372b9cca261483c77252f"},"collection":"Greatest Classic Legends","title":"Please Don't Eat the Daisies","director":"Walters, Charles","format":"DVD","hasvudu":false,"genre":["Comedy","Family","Romance"],"owner":"Irene","year":"1960"}
+{"_id":{"$oid":"5a737350cca261483c772530"},"collection":"Greatest Classic Legends","title":"Love Me or Leave Me","director":"Vidor, Charles","format":"DVD","hasvudu":false,"genre":["Biography","Drama","Music","Romance"],"owner":"Irene","year":"1955"}
+{"_id":{"$oid":"5a73739bcca261483c772531"},"title":"Boardwalk Empire","format":"Blu-Ray","season":"ALL","hasvudu":true,"genre":["Crime","Drama","History"],"owner":"Irene","year":"2010 - 2014"}
+{"_id":{"$oid":"5a7375dfcca261483c772532"},"title":"Big Bang Theory, The","format":"DVD","season":"1 - 6","hasvudu":false,"genre":["Comedy","Romance"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a73784ccca261483c772533"},"title":"Big Bang Theory, The","format":"Blu-Ray","season":"7 - 10","hasvudu":true,"genre":["Comedy","Romance"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a737d96cca261483c772534"},"title":"Book Thief, The","director":"Percival, Brian","format":"DVD","hasvudu":false,"genre":["Drama","War"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a737f7dcca261483c772535"},"title":"Finding Nemo","director":["Stanton, Andrew","Unkrich, Lee"],"format":"DVD","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family"],"owner":"Irene","year":"203"}
+{"_id":{"$oid":"5a73831ecca261483c772536"},"title":"Ender's Game","director":"Hood, Gavin","format":"Blu-Ray","hasvudu":true,"genre":["Action","Fantasy","Science Fiction"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a738478cca261483c772537"},"title":"Manchester by the Sea","director":"Lonergan, Kenneth","format":"Blu-Ray","hasvudu":true,"genre":"Drama","owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a7386b7d6c8e1465401eda7"},"title":"Bridget Jones's Diary","director":"Maguire, Sharon","format":"DVD","hasvudu":true,"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a738930d6c8e1465401eda9"},"title":"`Zombieland","director":"`Fleischer, Ruben","format":"DVD","hasvudu":false,"genre":["Adventure","Comedy","Horror","Science Fiction"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a738a5ad6c8e1465401edaa"},"title":"Terminator, The","director":"Cameron, James","format":"DVD","hasvudu":false,"genre":["Action","Science Fiction"],"owner":"Irene","year":"1984"}
+{"_id":{"$oid":"5a738b4ad6c8e1465401edab"},"title":"Woman in Black, The","director":"Watkins, James","format":"Blu-Ray","hasvudu":true,"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"5a738c04d6c8e1465401edac"},"title":"X-Men: First Class","director":"Vaughn, Matthew","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a738cc4d6c8e1465401edad"},"title":"Shallow Hal","director":["Farrelly, Bobby","Farrelly, Peter"],"format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Fantasy","Romance"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a738dc5d6c8e1465401edaf"},"title":"Aviator, The","director":"Scorsese, Martin","format":"DVD","hasvudu":false,"genre":["Biography","Drama","History"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a738e63d6c8e1465401edb0"},"title":"Blended","director":"Coraci, Frank","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Romance"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a739016d6c8e1465401edb1"},"title":"Frozen","director":"Buck, Jennifer Lee","format":"Blu-Ray","hasvudu":true,"genre":["Animation","Adventure","Comedy","Family","Fantasy","Musical"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a79aa9ffc72ea1e003df557"},"title":"Lego Batman: the Movie","director":"Burton, Jon","format":"Blu-Ray","hasvudu":true,"genre":["Animation","Action","Adventure","Family","Science Fiction"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a79ac09fc72ea1e003df558"},"title":"Colossal","director":"Vigalondo, Nacho","format":"Blu-Ray","hasvudu":true,"genre":["Action","Comedy","Drama","Fantasy","Science Fiction"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a79ad9afc72ea1e003df559"},"collection":"Complete Toy Story Collection, The","title":"Toy Story","director":"Lasseter, John","format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Fantasy"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"5a79ae88fc72ea1e003df55a"},"collection":"Complete Toy Story Collection, The","title":"Toy Story 2","director":["Lasseter, John","Brannon, Ash","Unkrich, Lee"],"format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Fantasy"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"5a79aed9fc72ea1e003df55b"},"collection":"Complete Toy Story Collection, The","title":"Toy Story 3","director":"Unkrich, Lee","format":"Blu-Ray","hasvudu":false,"genre":["Animation","Adventure","Comedy","Family","Fantasy"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a79b15efc72ea1e003df55c"},"title":"Star Trek: Into Darkness","director":"Abrams, J.J.","format":"4K","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a79b299fc72ea1e003df55d"},"title":"Star Trek: Beyond","director":"Lin, Justin","format":"4K","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a79b33ffc72ea1e003df55e"},"title":"Twilight","director":"Hardwicke, Catherine","format":"DVD","hasvudu":false,"genre":["Drama","Fantasy","Romance"],"owner":"Irene","year":"2008"}
+{"_id":{"$oid":"5a79b3dcfc72ea1e003df55f"},"collection":"4 Movie Collection: Hollywood Hits","title":"Saving Silverman","director":"Dugan, Dennis","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Crime","Romance"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a79b4d4fc72ea1e003df560"},"collection":"4 Movie Collection: Hollywood Hits","title":"Little Black Book","director":"Hurran, Nick","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a79b540fc72ea1e003df561"},"collection":"4 Movie Collection: Hollywood Hits","title":"Hexed","director":"Spencer, Alan","format":"DVD","hasvudu":false,"genre":["Comedy","Thriller"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"5a79b5bffc72ea1e003df562"},"collection":"4 Movie Collection: Hollywood Hits","title":"Life without Dick","director":"Skahill, Bix","format":"DVD","hasvudu":false,"genre":["Comedy","Crime","Romance"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"5a79b9fafc72ea1e003df563"},"title":"Bodyguard, The","director":"Jackson, Mick","format":"Blu-Ray","hasvudu":false,"genre":["Action","Drama","Music","Romance"],"owner":"Matt","year":"1992"}
+{"_id":{"$oid":"5a79fad65e07753398fbc689"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Saboteur","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Thriller","War"],"owner":"Irene","year":"1942"}
+{"_id":{"$oid":"5a79fc7c5e07753398fbc68a"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Shadow of a Doubt","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Thriller"],"owner":"Irene","year":"1943"}
+{"_id":{"$oid":"5a79fccd5e07753398fbc68b"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Rope","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Mystery","Thriller"],"owner":"Irene","year":"1948"}
+{"_id":{"$oid":"5a79fd0b5e07753398fbc68c"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Rear Window","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Mystery","Thriller"],"owner":"Irene","year":"1954"}
+{"_id":{"$oid":"5a79fd515e07753398fbc68d"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Trouble with Harry, The","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Mystery"],"owner":"Irene","year":"1955"}
+{"_id":{"$oid":"5a79fda25e07753398fbc68e"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Man who Knew too Much, The","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Thriller"],"owner":"Irene","year":"1956"}
+{"_id":{"$oid":"5a79fde85e07753398fbc68f"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Vertigoe","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Mystery","Romance","Thriller"],"owner":"Irene","year":"1958"}
+{"_id":{"$oid":"5a79fe445e07753398fbc690"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Psycho","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":true,"genre":["Horror","Mystery","Thriller"],"owner":"Irene","year":"1960"}
+{"_id":{"$oid":"5a79feeb5e07753398fbc692"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Birds, The","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Horror","Mystery","Romance"],"owner":"Irene","year":"1963"}
+{"_id":{"$oid":"5a79ff595e07753398fbc693"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Marnie","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Drama","Mystery","Romance","Thriller"],"owner":"Irene","year":"1964"}
+{"_id":{"$oid":"5a79ffa75e07753398fbc694"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Torn Curtain","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":true,"genre":["Thriller"],"owner":"Irene","year":"1966"}
+{"_id":{"$oid":"5a7a000e5e07753398fbc695"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Topaz","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Thriller"],"owner":"Irene","year":"1969"}
+{"_id":{"$oid":"5a7a00765e07753398fbc696"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Frenzy","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":true,"genre":["Thriller"],"owner":"Irene","year":"1972"}
+{"_id":{"$oid":"5a7a00c75e07753398fbc697"},"collection":"Alfred Hitchcock: The Masterpiece Collection","title":"Family Plot","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Thriller"],"owner":"Irene","year":"1976"}
+{"_id":{"$oid":"5a7f51e962c0353794a40feb"},"title":"Touch of Evil","director":"Welles, Orson","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Drama","Film-Noir","Thriller"],"owner":"Irene","year":"1958"}
+{"_id":{"$oid":"5a7f526c62c0353794a40fec"},"collection":"Universal Monsters","title":"Dracula","director":"Browning, Todd","format":"Blu-Ray","hasvudu":false,"genre":["Fantasy","Horror"],"owner":"Irene","year":"1931"}
+{"_id":{"$oid":"5a7f537e62c0353794a40fed"},"collection":"Universal Monsters","title":"Frankenstein","director":"Whale, James","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Horror","Science Fiction"],"owner":"Irene","year":"1931"}
+{"_id":{"$oid":"5a7f542762c0353794a40fee"},"collection":"Universal Monsters","title":"Mummy","director":"Freund, Karl","format":"Blu-Ray","hasvudu":false,"genre":["Fantasy","Horror"],"owner":"Irene","year":"1932"}
+{"_id":{"$oid":"5a7f548662c0353794a40fef"},"collection":"Universal Monsters","title":"Invisible Man, The","director":"Whale, James","format":"Blu-Ray","hasvudu":false,"genre":["Horror","Science Fiction"],"owner":"Irene","year":"1933"}
+{"_id":{"$oid":"5a7f54e762c0353794a40ff0"},"collection":"Universal Monsters","title":"Bride of Frankenstein","director":"Whale, James","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Horror","Science Fiction"],"owner":"Irene","year":"1935"}
+{"_id":{"$oid":"5a7f553a62c0353794a40ff1"},"collection":"Universal Monsters","title":"Dracula","director":"Waggner, George","format":"Blu-Ray","hasvudu":false,"genre":["Horror"],"owner":"Irene","year":"1941"}
+{"_id":{"$oid":"5a7f55a062c0353794a40ff2"},"collection":"Universal Monsters","title":"Phantom of the Opera","director":"Lubin, Arthur","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Horror","Music","Romance","Thriller"],"owner":"Irene","year":"1943"}
+{"_id":{"$oid":"5a7f563662c0353794a40ff3"},"collection":"Universal Monsters","title":"Creature from the Black Lagoon","director":"Arnold, Jack","format":"Blu-Ray","hasvudu":false,"genre":["Horror"],"owner":"Irene","year":"1954"}
+{"_id":{"$oid":"5a7f57df62c0353794a40ff4"},"collection":"Elia Kazan Collection, The","title":"Letter to Elia, A","director":["Jones, Kent","Scorsese, Martin"],"format":"Blu-Ray","hasvudu":true,"genre":["Documentary"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a7f590362c0353794a40ff5"},"collection":"Elia Kazan Collection, The","title":"Tree Grows in Brooklyn, A","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Romance"],"owner":"Irene","year":"1945"}
+{"_id":{"$oid":"5a7f599462c0353794a40ff6"},"collection":"Elia Kazan Collection, The","title":"Boomerang","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Film-Noir","Romance"],"owner":"Irene","year":"1947"}
+{"_id":{"$oid":"5a7f5a2c62c0353794a40ff8"},"collection":"Elia Kazan Collection, The","title":"Pinky","director":["Kazan, Elia","Ford, John"],"format":"Blu-Ray","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"1949"}
+{"_id":{"$oid":"5a7f5ad562c0353794a40ffa"},"collection":"Elia Kazan Collection, The","title":"Panic in the Streets","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Film-Noir","Thriller"],"owner":"Irene","year":"1950"}
+{"_id":{"$oid":"5a7f5b3e62c0353794a40ffb"},"collection":"Elia Kazan Collection, The","title":"Streetcar Named Desire, A","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"1951"}
+{"_id":{"$oid":"5a7f601d62c0353794a40ffc"},"collection":"Elia Kazan Collection, The","title":"Gentleman's Agreement","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Romance"],"owner":"Irene","year":"1947"}
+{"_id":{"$oid":"5a7f608662c0353794a40ffd"},"collection":"Elia Kazan Collection, The","title":"Viva Zapata","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":true,"genre":["Biography","Drama","History"],"owner":"Irene","year":"1952"}
+{"_id":{"$oid":"5a7f60e062c0353794a40ffe"},"collection":"Elia Kazan Collection, The","title":"Man on a Tightrope","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Film-Noir","Thriller"],"owner":"Irene","year":"1953"}
+{"_id":{"$oid":"5a7f611e62c0353794a40fff"},"collection":"Elia Kazan Collection, The","title":"On the Waterfront","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"1954"}
+{"_id":{"$oid":"5a7f615762c0353794a41000"},"collection":"Elia Kazan Collection, The","title":"East of Eden","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"1955"}
+{"_id":{"$oid":"5a7f61aa62c0353794a41001"},"collection":"Elia Kazan Collection, The","title":"Baby Doll","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"1956"}
+{"_id":{"$oid":"5a7f628962c0353794a41002"},"collection":"Elia Kazan Collection, The","title":"Face in the Crowd, A","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Music"],"owner":"Irene","year":"1957"}
+{"_id":{"$oid":"5a7f62d962c0353794a41003"},"collection":"Elia Kazan Collection, The","title":"Wild River","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama","History","Romance"],"owner":"Irene","year":"1960"}
+{"_id":{"$oid":"5a7f630f62c0353794a41004"},"collection":"Elia Kazan Collection, The","title":"Splendor in the Grass","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Romance"],"owner":"Irene","year":"1961"}
+{"_id":{"$oid":"5a7f635762c0353794a41005"},"collection":"Elia Kazan Collection, The","title":"America America","director":"Kazan, Elia","format":"Blu-Ray","hasvudu":false,"genre":["Drama"],"owner":"Irene","year":"1963"}
+{"_id":{"$oid":"5a7f819f62c0353794a41006"},"collection":"Planet of the Apes Legacy Collection","title":"Planet of the Apes","director":"Schaffner, Franklin J.","format":"Blu-Ray","hasvudu":"false","genre":["Adventure","Science Fiction"],"owner":"Irene","year":"1968"}
+{"_id":{"$oid":"5a7f82b762c0353794a41007"},"collection":"Planet of the Apes Legacy Collection","title":"Beneath the Planet of the Apes","director":"Post, Ted","format":"Blu-Ray","hasvudu":"false","genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"1970"}
+{"_id":{"$oid":"5a7f830862c0353794a41008"},"collection":"Planet of the Apes Legacy Collection","title":"Escape from the Planet of the Apes","director":"Taylor, Don","format":"Blu-Ray","hasvudu":"false","genre":["Action","Science Fiction"],"owner":"Irene","year":"1971"}
+{"_id":{"$oid":"5a7f835262c0353794a41009"},"collection":"Planet of the Apes Legacy Collection","title":"Conquest of the Planet of the Apes","director":"Thompson, J. Lee","format":"Blu-Ray","hasvudu":"false","genre":["Action","Science Fiction"],"owner":"Irene","year":"1972"}
+{"_id":{"$oid":"5a7f83bd62c0353794a4100a"},"collection":"Planet of the Apes Legacy Collection","title":"Battle for the Planet of the Apes","director":"Thompson, J. Lee","format":"Blu-Ray","hasvudu":"false","genre":["Action","Science Fiction"],"owner":"Irene","year":"1973"}
+{"_id":{"$oid":"5a7f844c62c0353794a4100b"},"collection":"Hannibal Lecter Collection","title":"Manhunter","director":"Mann, Michael","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Horror","Mystery","Thriller"],"owner":"Irene","year":"1986"}
+{"_id":{"$oid":"5a7f854462c0353794a4100c"},"collection":"Hannibal Lecter Collection","title":"Silence of the Lambs, The","director":"Demme, Jonathan","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"1991"}
+{"_id":{"$oid":"5a7f859d62c0353794a4100d"},"collection":"Hannibal Lecter Collection","title":"Silence of the Lambs, The","director":"Scott, Ridley","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a82e7adf644dc2ea45d2c0d"},"title":"Bewitched","season":"ALL","format":"DVD","hasvudu":false,"gemre":["Comedy","Family","Fantasy","Romance"],"owner":"Irene","year":"1964 - 1972"}
+{"_id":{"$oid":"5a82eb1ef644dc2ea45d2c0e"},"title":"Blade Runner 2049","director":"Villeneuve, Denis","format":"4K","hasvudu":"true","genre":["Drama","Mystery","Science Fiction","Thriller"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8442e9601c0f1308a19476"},"title":"Total Recall","director":"Wiseman, Len","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Mystery","Science Fiction","Thriller"],"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"5a844573601c0f1308a19477"},"title":"Christine","director":"Carpenter, John","format":"Blu-Ray","hasvudu":true,"genre":"Horror","owner":"Irene","year":"1983"}
+{"_id":{"$oid":"5a8448dd601c0f1308a19478"},"title":"Taxi Driver","director":"Scorsese, Martin","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Drama"],"owner":"Irene","year":"1976"}
+{"_id":{"$oid":"5a844943601c0f1308a19479"},"title":"Close Encounters of the Third Kind","director":"Spielberg, Steven","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Science Fiction"],"owner":"Irene","year":"1977"}
+{"_id":{"$oid":"5a8a108b37efb524f4a50571"},"title":"Raising Arizona","director":["Coen, Joel","Coen, Ethan"],"format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Matt","year":"1987"}
+{"_id":{"$oid":"5a8a10f337efb524f4a50572"},"title":"48 Hrs.","director":"Hill, Walter","format":"Blu-Ray","hasvudu":false,"genre":["Action","Comedy","Crime","Drama","Thriller"],"owner":"Matt","year":"1982"}
+{"_id":{"$oid":"5a8a11e437efb524f4a50573"},"title":"Apollo 13","director":"Howard, Ron","format":"4K","hasvudu":true,"genre":["Adventure","Drama","History"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"5a8a125a37efb524f4a50574"},"title":"Captain America: The First Avenger","director":"Johnston, Joe","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a8a13c637efb524f4a50575"},"title":"Captain America: The Winter Soldier","director":["Russo, Anthony","Russo, Joe"],"format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction","Thriller"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a8a13d237efb524f4a50576"},"title":"Van Helsing","director":"Sommers, Stephen","format":"4K","hasvudu":"true","genre":["Action","Adventure","Fantasy"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a8ac90b37efb524f4a50578"},"title":"Game of Thrones","season":"1 - 6","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Drama","Fantasy","Romance"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a8acb3537efb524f4a50579"},"title":"Rewrite, The","director":"Lawrence, Marc","format":"DVD","hasvudu":"false","genre":["Comedy","Romance"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a8acbca37efb524f4a5057a"},"title":"Jack Reacher: Never Go Back","director":"Zwick, Edward","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Crime","Mystery","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8aea3537efb524f4a5057b"},"title":"Chicago","director":"Marshall, Rob","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Crime","Musical"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"5a8aeb2937efb524f4a5057c"},"title":"Secret Life of Walter Mitty, The","director":"Stiller, Ben","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Comedy","Drama","Fantasy","Romance"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a8aecf437efb524f4a5057d"},"title":"Music Man, The","director":"DaCosta, Morton","format":"DVD","hasvudu":false,"genre":["Comedy","Musical","Romance"],"owner":"Irene","year":"1962"}
+{"_id":{"$oid":"5a8aed8b37efb524f4a5057e"},"title":"Mother's Day","director":"Marshall, Garry","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Drama"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8aeeb137efb524f4a5057f"},"title":"Arrival","director":"Villeneuve, Denis","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Mystery","Science Fiction","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8aefb537efb524f4a50580"},"title":"Now You See Me 2","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Comedy","Crime","Mystery","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8af10137efb524f4a50581"},"title":"Little Shop of Horrors","edition":"Director's Cut","director":"Oz, Frank","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Family","Musical","Romance","Science Fiction"],"owner":"Irene","year":"1986"}
+{"_id":{"$oid":"5a8af15637efb524f4a50582"},"title":"Fantastic Beasts and where to Find Them","director":"Yates, David","format":"Blu-Ray","hasvudu":"true","genre":["Adventure","Family","Fantasy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8af26737efb524f4a50583"},"title":"Jurassic World","director":"Trevorrow, Colin","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a8af2fe37efb524f4a50584"},"title":"Passengers","director":"Tyldum, Morten","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Science Fiction","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8af4d637efb524f4a50585"},"title":"Sleepy Hollow","season":"2","format":"DVD","hasvudu":false,"genre":["Adventure","Drama","Fantasy","Horror","Mystery","Thriller"],"owner":"Irene","year":"2013 - 2017"}
+{"_id":{"$oid":"5a8af59737efb524f4a50587"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Sorcerer's Stone","director":"Columbus, Chris","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a8af64e37efb524f4a50588"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Chamber of Secrets","director":"Columbus, Chris","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"5a8af69737efb524f4a50589"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Prisoner of Azkaban","director":"Cuaron, Alofonso","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a8af6b737efb524f4a5058a"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Goblet of Fire","director":"Newell, Mike","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2005"}
+{"_id":{"$oid":"5a8af6d737efb524f4a5058b"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Order of the Phoenix","director":"Yates, David","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a8af72637efb524f4a5058c"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Half-Blood Prince","director":"Yates, David","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a8af75037efb524f4a5058d"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Deathly Hallows: Part I","director":"Yates, David","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Family","Fantasy","Mystery"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a8af78f37efb524f4a5058e"},"collection":"Harry Potter Complete 8-Film Collection","title":"Harry Potter and the Deathly Hallows: Part II","director":"Yates, David","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Drama","Fantasy","Mystery"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a8af8be37efb524f4a5058f"},"title":"Sorcerer's Apprentice, The","director":"Turteltaub, Jon","format":"DVD","hasvudu":false,"genre":["Action","Adventure","Family","Fantasy"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a8af9b537efb524f4a50591"},"title":"Sleepy Hollow","director":"Burton, Tim","format":"Blu-Ray","hasvudu":false,"genre":["Fantasy","Horror","Mystery"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"5a8afac037efb524f4a50592"},"title":"It's a Wonderful Life","director":"Capra, Frank","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Family","Fantasy"],"owner":"Irene","year":"1946"}
+{"_id":{"$oid":"5a8afb9037efb524f4a50593"},"title":"Galaxy Quest","director":"Parisot, Dean","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Comedy","Science Fiction"],"owner":"Irene","year":"1999"}
+{"_id":{"$oid":"5a8afc2c37efb524f4a50594"},"title":"Andromeda Strain, The","director":"Wise, Robert","format":"Blu-Ray","hasvudu":false,"genre":["Science Fiction","Thriller"],"owner":"Irene","year":"1971"}
+{"_id":{"$oid":"5a8afc5937efb524f4a50595"},"title":"Logan","director":"Mangold, James","format":"Blu-Ray","hasvudu":true,"genre":["Action","Drama","Science Fiction","Thriller"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8afce437efb524f4a50596"},"title":"Rogue One: A Star Wars Story","director":"Edwards, Gareth","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8afe1a37efb524f4a50597"},"title":"John Wick: Chapter 2","director":"Stahelski, Chad","format":"Blu-Ray","hasvudu":"true","genre":["Action","Crime","Thriller"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b000d37efb524f4a50598"},"title":"Percy Jackson: Sea of Monsters","director":"Freudenthal, Thor","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Family","Fantasy","Thriller"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a8b00a437efb524f4a50599"},"title":"Despicable Me 3","director":["Balda, Kyle","Coffin, Pierre","Eric Guillon"],"format":"4K","hasvudu":true,"genre":["Action","Adventure","Animation","Comedy","Family","Science Fiction"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b023437efb524f4a5059a"},"title":"Tin Man","format":"Blu-Ray","hasvudu":"false","genre":["Adventure","Fantasy","Mini-Series","Science Fiction","Western"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a8b031237efb524f4a5059b"},"title":"Valerian and the City of a Thousand Planets","director":"Besson, Luc","format":"4K","hasvudu":true,"genre":["Action","Adventure","Fantasy","Science Fiction"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b05a537efb524f4a5059c"},"title":"La La Land","director":"Chazelle, Damien","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Drama","Music","Musical","Romance"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b069b37efb524f4a5059d"},"title":"Beauty and the Beast","edition":"25th Anniversary Edition","director":["Truesdale, Gary","Wise, Kirk"],"format":"Blu-Ray","hasvudu":true,"genre":["Animation","Family","Fantasy","Musical","Romance"],"owner":"Irene","year":"1991"}
+{"_id":{"$oid":"5a8b07b437efb524f4a5059e"},"title":"Firm, The","director":"Pollack, Sydney","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Mystery","Thriller"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"5a8b083137efb524f4a5059f"},"title":"Going in Style","director":"Braff, Zach","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Crime"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b091537efb524f4a505a0"},"title":"Gifted","director":"Webb, Marc","format":"Blu-Ray","hasvudu":true,"genre":"Drama","owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b0a0737efb524f4a505a1"},"title":"11.22.63","director":"Carpenter, Bridget","format":"Blu-Ray","hasvudu":true,"genre":["Drama","Mystery","Science Fiction","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b0aef37efb524f4a505a2"},"title":"Kingsman: The Golden Circle","director":"Vaughn, Matthew","format":"Blu-Ray","hasvudu":"true","genre":["Action","Adventure","Comedy"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b0cf037efb524f4a505a3"},"title":"Legend","director":"Helgeland, Brian","format":"Blu-Ray","hasvudu":true,"genre":["Biography","Crime","Drama","Thriller"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a8b0db737efb524f4a505a4"},"collection":"Triple Terror Collection","title":"Stephen King's The Shining","director":"Garris, Mick","format":"DVD","hasvudu":false,"genre":["Drama","Fantasy","Horror","Mini-Series","Thriller"],"owner":"Irene","year":"1997"}
+{"_id":{"$oid":"5a8b0f3737efb524f4a505a5"},"collection":"Triple Terror Collection","title":"Stephen King's It","director":"Wallace, Tommy Lee","format":"DVD","hasvudu":false,"genre":["Drama","Horror","Mini-Series","Mystery","Thriller"],"owner":"Irene","year":"1997"}
+{"_id":{"$oid":"5a8b0fa937efb524f4a505a6"},"collection":"Triple Terror Collection","title":"Salem's Lot","director":"Salomon, Mikael","format":"DVD","hasvudu":false,"genre":["Drama","Horror","Mini-Series","Mystery","Thriller"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a8b105f37efb524f4a505a7"},"title":"Woman of the Year","director":"Stevens, George","format":"DVD","hasvudu":false,"genre":["Comedy","Drama","Romance","Sport"],"owner":"Irene","year":"1942"}
+{"_id":{"$oid":"5a8b12f537efb524f4a505a8"},"title":"Rain Man","director":"Levinson, Barry","format":"DVD","hasvudu":false,"genre":"Drama","owner":"Irene","year":"1988"}
+{"_id":{"$oid":"5a8b13f337efb524f4a505a9"},"collection":"Simon Pegg Double Feature","title":"Shaun of the Dead","director":"Wright, Edgar","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Horror"],"owner":"Irene","year":"2004"}
+{"_id":{"$oid":"5a8b14ac37efb524f4a505aa"},"collection":"Simon Pegg Double Feature","title":"Hot Fuzz","director":"Wright, Edgar","format":"Blu-Ray","hasvudu":false,"genre":["Action","Comedy"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a8b14ed37efb524f4a505ab"},"title":"Volunteers","director":"Meyer, Nicholas","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1985"}
+{"_id":{"$oid":"5a8b15ec37efb524f4a505ac"},"collection":"Mission: Impossible 5 Movie Collection","title":"Mission: Impossible","director":"De Palma, Brian","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"1996"}
+{"_id":{"$oid":"5a8b16da37efb524f4a505ad"},"collection":"Mission: Impossible 5 Movie Collection","title":"Mission: Impossible II","director":"Woo, John","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"2000"}
+{"_id":{"$oid":"5a8b170837efb524f4a505ae"},"collection":"Mission: Impossible 5 Movie Collection","title":"Mission: Impossible III","director":"Abrams, J.J.","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"2006"}
+{"_id":{"$oid":"5a8b174537efb524f4a505af"},"collection":"Mission: Impossible 5 Movie Collection","title":"Mission: Impossible - Ghost Protocol","director":"Bird, Brad","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a8b17a537efb524f4a505b0"},"collection":"Mission: Impossible 5 Movie Collection","title":"Mission: Impossible - Rogue Nation","director":"McQuarrie, Christopher","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Thriller"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a8b194e37efb524f4a505b1"},"title":"Peanuts Movie, The","edition":"Collector's Edition","director":"Martino, Steve","format":"Blu-Ray","hasvudu":"true","genre":["Animation","Adventure","Comedy","Family"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a8b1a3a37efb524f4a505b2"},"title":"Parental Guidance","director":"Fickman, Andy","format":"DVD","hasvudu":false,"genre":["Comedy","Family"],"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"5a8b1b1d37efb524f4a505b3"},"title":"Trust, The","director":["Brewer, Alex","Brewer, Benjamin"],"format":"DVD","hasvudu":true,"genre":["Crime","Drama","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b1c0d37efb524f4a505b4"},"title":"Kindergarten Cop","director":"Reitman, Ivan","format":"Blu-Ray","hasvudu":true,"genre":"Comedy","owner":"Irene","year":"1990"}
+{"_id":{"$oid":"5a8b1c8f37efb524f4a505b5"},"title":"Keeping up with the Joneses","director":"Mottola, Greg","format":"Blu-Ray","hasvudu":true,"genre":["Action","Comedy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b1cee37efb524f4a505b6"},"title":"Live by Night","director":"Affleck, Ben","format":"Blu-Ray","hasvudu":true,"genre":["Action","Crime","Drama","Thriller"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b1d9e37efb524f4a505b7"},"collection":"MIB Trilogy","title":"Men in Black","director":"Sonnenfeld, Barry","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Comedy","Family","Mystery","Science Fiction"],"owner":"Irene","year":"1997"}
+{"_id":{"$oid":"5a8b1e3737efb524f4a505b8"},"collection":"MIB Trilogy","title":"Men in Black II","director":"Sonnenfeld, Barry","format":"Blu-Ray","hasvudu":false,"genre":["Adventure","Comedy","Family","Mystery","Science Fiction"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"5a8b1eaf37efb524f4a505b9"},"collection":"MIB Trilogy","title":"Men in Black 3","director":"Sonnenfeld, Barry","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Comedy","Family","Science Fiction"],"owner":"Irene","year":"2012"}
+{"_id":{"$oid":"5a8b1ecd37efb524f4a505ba"},"title":"Horrible Bosses","edition":"Totally Inappropriate Edition","director":"Gordon, Seth","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Crime"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a8b1f8237efb524f4a505bb"},"title":"Central Intelligence","director":"Thurber, Rawson Marshall","format":"Blu-Ray","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b208437efb524f4a505bc"},"title":"Strangers on a Train","director":"Hitchcock, Alfred","format":"Blu-Ray","hasvudu":false,"genre":["Crime","Film-Noir","Thriller"],"owner":"Irene","year":"1951"}
+{"_id":{"$oid":"5a8b216137efb524f4a505bd"},"title":"Hidden Figures","director":"Melfi, Theodore","format":"Blu-Ray","hasvudu":true,"genre":["Biography","Drama","History"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b226837efb524f4a505be"},"title":"Founder, The","director":"Hancock, John Lee","format":"Blu-Ray","hasvudu":true,"genre":["Biography","Drama","History"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b234037efb524f4a505bf"},"title":"How the Grinch Stole Christmas!","director":["Jones, Chuck","Washam, Ben"],"format":"Blu-Ray","hasvudu":false,"genre":["Animation","Comedy","Family","Fantasy","Musical"],"owner":"Irene","year":"1966"}
+{"_id":{"$oid":"5a8b245a37efb524f4a505c0"},"title":"Fisher King, The","director":"Gilliam, Terry","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Drama","Fantasy"],"owner":"Irene","year":"1991"}
+{"_id":{"$oid":"5a8b24f237efb524f4a505c1"},"title":"My Bodyguard","director":"Bill, Tony","format":"Blu-Ray","hasvudu":false,"genre":["Comedy","Drama","Family"],"owner":"Irene","year":"1980"}
+{"_id":{"$oid":"5a8b257737efb524f4a505c2"},"collection":"Clint Eastwood Double Feature","title":"Unforgiven","director":"Eastwood, Clint","format":"Blu-Ray","hasvudu":false,"genre":["Drama","Western"],"owner":"Irene","year":"1992"}
+{"_id":{"$oid":"5a8b264337efb524f4a505c3"},"collection":"Clint Eastwood Double Feature","title":"Outlaw Josie Wales, The","director":"Eastwood, Clint","format":"Blu-Ray","hasvudu":false,"genre":"Western","owner":"Irene","year":"1976"}
+{"_id":{"$oid":"5a8b265e37efb524f4a505c4"},"title":"Jupiter Ascending","director":["Wachowski, Lana","Wachowski, Lily"],"format":"4K","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"2015"}
+{"_id":{"$oid":"5a8b279737efb524f4a505c5"},"title":"Assassin's Creed","director":"Kurzel, Justin","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Fantasy","Science Fiction"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b283937efb524f4a505c6"},"title":"Other Guys, The","edition":"The Unrated Other Edition","director":"McKay, Adam","format":"Blu-Ray","hasvudu":false,"genre":["Action","Comedy","Crime"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a8b28e237efb524f4a505c7"},"title":"John Wick","director":["Stahelski, Chad","Leitch, David"],"format":"DVD","hasvudu":true,"genre":["Action","Crime","Thriller"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a8b2a0237efb524f4a505c8"},"title":"Smokey and the Bandit","director":"Needham, Hal","format":"Blu-Ray","hasvudu":true,"genre":["Action","Comedy"],"owner":"Irene","year":"1977"}
+{"_id":{"$oid":"5a8b2d0237efb524f4a505c9"},"title":"Baby Driver","director":"Wright, Edgar","format":"Blu-Ray","hasvudu":true,"genre":["Action","Crime","Music","Thriller"],"owner":"Irene","year":"2017"}
+{"_id":{"$oid":"5a8b2e9b37efb524f4a505ca"},"title":"Doctor Strange","director":"Derrickson, Scott","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Fantasy","Science Fiction"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b2f2737efb524f4a505cb"},"title":"Bedtime Story","director":"Levy, Ralph","format":"DVD","hasvudu":false,"genre":"Comedy","owner":"Irene","year":"1964"}
+{"_id":{"$oid":"5a8b2feb37efb524f4a505cc"},"collection":"Jurassic Park Ultimate Trilogy","title":"Jurassic Park","director":"Spielberg, Steven","format":"Blu-Ray","hasvudu":true,"genre":["Adventure","Science Fiction","Thriller"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"5a8b313e37efb524f4a505cd"},"collection":"Jurassic Park Ultimate Trilogy","title":"Jurassic Park: The Lost World","director":"Spielberg, Steven","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction"],"owner":"Irene","year":"1997"}
+{"_id":{"$oid":"5a8b317437efb524f4a505ce"},"collection":"Jurassic Park Ultimate Trilogy","title":"Jurassic Park III","director":"Johnston, Joe","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Science Fiction","Thriller"],"owner":"Irene","year":"2001"}
+{"_id":{"$oid":"5a8b31b237efb524f4a505cf"},"title":"Super 8","director":"Abrams, J.J.","format":"Blu-Ray","hasvudu":true,"genre":["Mystery","Science Fiction","Thriller"],"owner":"Irene","year":"2011"}
+{"_id":{"$oid":"5a8b356f37efb524f4a505d0"},"title":"Quantum Leap","seasons":"ALL","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Drama","Mystery","Science Fiction"],"owner":"Irene","year":"1989 - 1993"}
+{"_id":{"$oid":"5a8b366237efb524f4a505d1"},"title":"Birdman or the Unexplained Virtue of Ignorance","director":"Inarritu, Alejandro G.","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Drama"],"owner":"Irene","year":"2014"}
+{"_id":{"$oid":"5a8b376b37efb524f4a505d2"},"collection":"5 Film Collection: The Golden Years","title":"Bucket List, The","director":"Reiner, Rob","format":"DVD","hasvudu":true,"genre":["Adventure","Comedy","Drama"],"owner":"Irene","year":"2007"}
+{"_id":{"$oid":"5a8b383f37efb524f4a505d3"},"collection":"5 Film Collection: The Golden Years","title":"Grudge Match","director":"Segal, Peter","format":"DVD","hasvudu":true,"genre":["Comedy","Drama","Sport"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a8b387037efb524f4a505d4"},"collection":"5 Film Collection: The Golden Years","title":"About Schmidt","director":"Payne, Alexander","format":"DVD","hasvudu":true,"genre":["Comedy","Drama"],"owner":"Irene","year":"2002"}
+{"_id":{"$oid":"5a8b394537efb524f4a505d5"},"collection":"5 Film Collection: The Golden Years","title":"Grumpy Old Men","director":"Petrie, Donald","format":"DVD","hasvudu":true,"genre":["Comedy","Drama","Romance"],"owner":"Irene","year":"1993"}
+{"_id":{"$oid":"5a8b397937efb524f4a505d6"},"collection":"5 Film Collection: The Golden Years","title":"Grumpier Old Men","director":"Deutch, Howard","format":"DVD","hasvudu":true,"genre":["Comedy","Romance"],"owner":"Irene","year":"1995"}
+{"_id":{"$oid":"5a8b39e037efb524f4a505d7"},"title":"We're the Millers","director":"Thurber, Rawson Marshall","format":"Blu-Ray","hasvudu":true,"genre":["Comedy","Crime"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a8b3a6237efb524f4a505d8"},"collection":"Sherlock Holmes Collection","title":"Sherlock Holmes","director":"Ritchie, Guy","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Crime","Mystery","Thriller"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a8b3b5837efb524f4a505d9"},"collection":"Sherlock Holmes Collection","title":"Sherlock Holmes: A Game of Shadows","director":"Ritchie, Guy","format":"Blu-Ray","hasvudu":false,"genre":["Action","Adventure","Crime","Mystery","Thriller"],"owner":"Irene","year":"2009"}
+{"_id":{"$oid":"5a8b3b8137efb524f4a505da"},"title":"Warcraft","director":"Jones, Duncan","format":"Blu-Ray","hasvudu":true,"genre":["Action","Adventure","Fantasy"],"owner":"Irene","year":"2016"}
+{"_id":{"$oid":"5a8b3dd437efb524f4a505db"},"title":"Knight and Day","director":"Mangold, James","format":"DVD","hasvudu":false,"genre":["Action","Comedy","Romance"],"owner":"Irene","year":"2010"}
+{"_id":{"$oid":"5a8b3e9337efb524f4a505dc"},"title":"Now you see Me","director":"Leterrier, Louis","format":"Blu-Ray","hasvudu":true,"genre":["Crime","Mystery","Thriller"],"owner":"Irene","year":"2013"}
+{"_id":{"$oid":"5a8b3f3a37efb524f4a505dd"},"title":"Treasure Island","director":"Barron, Steve","format":"Blu-Ray","hasvudu":false,"genre":"Adventure","owner":"Irene","year":"2012"}
