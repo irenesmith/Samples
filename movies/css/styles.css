@@ -1,0 +1,66 @@
+/* Styles used throughout the site */
+body {
+	font-family: 'Heebo', sans-serif;
+	font-size:16px;
+	background-color: linen;
+}
+
+main {
+	width:80%;
+	max-width:960px;
+	max-height:100%;
+	margin:0 auto;
+	margin-bottom:45px;
+}
+
+h1 {
+	font-family: 'Satisfy', cursive;
+}
+
+footer {
+	border-top:solid 1px #ccc;
+	position:fixed;
+	width:100%;
+	bottom:0;
+	left:0;
+	font-size: 0.8em;
+	background-color:white;
+}
+
+.not-cursive {
+	font-family: 'Heebo', sans-serif;
+}
+
+.centered {
+	text-align: center;
+}
+
+#videoTable, #bookTable, #gameTable {
+	overflow-y:scroll;
+	border: solid 1px #ccc;
+	border-collapse: collapse;
+}
+
+#videoTable td, #bookTable td, #gameTable td {
+	border: solid 1px #ccc;
+	vertical-align: top;
+	padding: 5px;
+}
+
+#videoTable th, #bookTable th, #gameTable th {
+	font-weight: bold;
+	border: solid 1px darkgreen;
+	background-color: darkgreen;
+	color: white;
+	vertical-align:baseline;
+}
+
+#videos {
+}
+
+#movie-img {
+	margin-right:15px;
+	float:left;
+	width:150px;
+	height:;
+}

@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica&display=swap');
+
+/*------------------------------------*/
+/*           Global Styles            */
+/*------------------------------------*/
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: beige;
+  color: sienna;
+  font-family: Arial, serif;
+  height: 100%;
+  line-height:1.25;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1 {
+  color: darkgreen;
+  font-family: 'Aclonica', sans-serif;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+p {
+  max-width: 600px;
+  margin: 0.5rem auto;
+}
+
+canvas {
+  background-color: black;
+  border: 1px solid yellow;
+  color: white;
+  display:block;
+  margin: 0 auto;
+}
+
+.buttonTable {
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem auto;
+  width: 600px;
+}
+
+button {
+  background-color: whitesmoke;
+  border-radius: 5px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+button:hover,
+button:focus {
+  background-color: lightcyan;
+}

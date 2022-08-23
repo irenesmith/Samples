@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Yacht Game</title>
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <img id="splash" class="splash-on" src="img/yacht_splash.jpg" alt="splash screen">
+  <dialog id='userInfo'>
+      <label for='num-players'>Number of Players: </label>
+      <input type="number" min="1" max="4" id='num-players' value="1"><br>
+      <label for='p1'>Player 1</label>
+      <input type="text" name="player1" id="p1"><br>
+      <label for='p2'>Player 2</label>
+      <input type="text" name="player2" id="p2"><br>
+      <label for='p3'>Player 3</label>
+      <input type="text" name="player3" id="p3"><br>
+      <label for='p4'>Player 1</label>
+      <input type="text" name="player4" id="p4"><br>
+      <button id="btnOk">OK</button>
+  </dialog>
+  <main>
+    <header>
+      <h1>Yacht Game</h1>
+      <p class="rolls"><span id="rolls"></span></p>
+      <div id="dice-cup">
+        <img src="img/1.png" class="die" id="0">
+        <img src="img/2.png" class="die" id="1">
+        <img src="img/3.png" class="die" id="2">
+        <img src="img/4.png" class="die" id="3">
+        <img src="img/5.png" class="die" id="4">
+      </div>
+      <button class="center-button" id="roll-button">Roll</button>
+    </header>
+    <div id="game">
+      <table class="game-board">
+        <thead>
+          <tr>
+            <th>&nbsp;</th>
+            <td id="scores1" class="active">1</td>
+            <td id="scores2">2</td>
+            <td id="scores3">3</td>
+            <td id="scores4">4</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr id="s1">
+            <th>Ones</th>
+            <td class="score" id='p1-1'></td>
+            <td class="score" id='p2-1'></td>
+            <td class="score" id='p3-1'></td>
+            <td class="score" id='p4-1'></td>
+          </tr>
+          <tr id="s2">
+            <th>Twos</th>
+            <td class="score" id='p1-2'></td>
+            <td class="score" id='p2-2'></td>
+            <td class="score" id='p3-2'></td>
+            <td class="score" id='p4-2'></td>
+          </tr>
+          <tr id="s3">
+            <th>Threes</th>
+            <td class="score" id='p1-3'></td>
+            <td class="score" id='p2-3'></td>
+            <td class="score" id='p3-3'></td>
+            <td class="score" id='p4-3'></td>
+          </tr>
+          <tr id="s4">
+            <th>Fours</th>
+            <td class="score" id='p1-4'></td>
+            <td class="score" id='p2-4'></td>
+            <td class="score" id='p3-4'></td>
+            <td class="score" id='p4-4'></td>
+          </tr>
+          <tr id="s5">
+            <th>Fives</th>
+            <td class="score" id='p1-5'></td>
+            <td class="score" id='p2-5'></td>
+            <td class="score" id='p3-5'></td>
+            <td class="score" id='p4-5'></td>
+          </tr>
+          <tr id="s6">
+            <th>Sixes</th>
+            <td class="score" id='p1-6'></td>
+            <td class="score" id='p2-6'></td>
+            <td class="score" id='p3-6'></td>
+            <td class="score" id='p4-6'></td>
+          </tr>
+          <tr>
+            <th>Top Subtotal</th>
+            <td class="score" id='p1-sub-total'></td>
+            <td class="score" id='p2-sub-total'></td>
+            <td class="score" id='p3-sub-total'></td>
+            <td class="score" id='p4-sub-total'></td>
+          </tr>
+          <tr>
+            <th>Bonus</th>
+            <td class="score" id='p1-bonus'></td>
+            <td class="score" id='p2-bonus'></td>
+            <td class="score" id='p3-bonus'></td>
+            <td class="score" id='p4-bonus'></td>
+          </tr>
+          <tr>
+            <th>Top Total</th>
+            <td class="score" id='p1-top-total'></td>
+            <td class="score" id='p2-top-total'></td>
+            <td class="score" id='p3-top-total'></td>
+            <td class="score" id='p4-top-total'></td>
+          </tr>
+          <tr>
+            <td colspan="5">&nbsp;</td>
+          </tr>
+          <tr id="3kind" onclick=score3kind(e)>
+            <th>3 of a Kind</th>
+            <td class="score" id='p1-3kind'></td>
+            <td class="score" id='p2-3kind'></td>
+            <td class="score" id='p3-3kind'></td>
+            <td class="score" id='p4-3kind'></td>
+          </tr>
+          <tr id="4kind" onclick=score4kind(e)>
+            <th>4 of a Kind</th>
+            <td class="score" id='p1-4kind'></td>
+            <td class="score" id='p2-4kind'></td>
+            <td class="score" id='p3-4kind'></td>
+            <td class="score" id='p4-4kind'></td>
+          </tr>
+          <tr id="full-house">
+            <th>Full House</th>
+            <td class="score" id="p1-full-house"></td>
+            <td class="score" id="p2-full-house"></td>
+            <td class="score" id="p3-full-house"></td>
+            <td class="score" id="p4-full-house"></td>
+          </tr>
+          <tr id=sstraight>
+            <th>Small Straight</th>
+            <td class="score" id='p1-sstraight'></td>
+            <td class="score" id='p2-sstraight'></td>
+            <td class="score" id='p3-sstraight'></td>
+            <td class="score" id='p4-sstraight'></td>
+          </tr>
+          <tr id="lstraight">
+            <th>Large Straight</th>
+            <td class="score" id='p1-lstraight'></td>
+            <td class="score" id='p2-lstraight'></td>
+            <td class="score" id='p3-lstraight'></td>
+            <td class="score" id='p4-lstraight'></td>
+          </tr>
+          <tr id="yacht">
+            <th>Yacht</th>
+            <td class="score" id='p1-yacht'></td>
+            <td class="score" id='p2-yacht'></td>
+            <td class="score" id='p3-yacht'></td>
+            <td class="score" id='p4-yacht'></td>
+          </tr>
+          <tr id="chance">
+            <th>Chance</th>
+            <td class="score" id='p1-chance'></td>
+            <td class="score" id='p2-chance'></td>
+            <td class="score" id='p3-chance'></td>
+            <td class="score" id='p4-chance'></td>
+          </tr>
+          <tr>
+            <th>Bottom Subtotal</th>
+            <td class="score" id="p1-bottom-total"></td>
+            <td class="score" id="p2-bottom-total"></td>
+            <td class="score" id="p3-bottom-total"></td>
+            <td class="score" id="p4-bottom-total"></td>
+          </tr>
+          <tr>
+            <th>Grand Total</th>
+            <td class="score" id='p1-grand-total'></td>
+            <td class="score" id='p2-grand-total'></td>
+            <td class="score" id='p3-grand-total'></td>
+            <td class="score" id='p4-grand-total'></td>
+          </tr>
+        </tbody>
+      </table>
+      <table class="player-list">
+        <tbody>
+          <tr>
+            <th class="active" id="player1">Player 1</th>
+            <td class="score" id="p1Total"></td>
+          </tr>
+          <tr>
+            <th id="player2">Player 2</th>
+            <td class="score" id="p2Total"></td>
+          </tr>
+          <tr>
+            <th id="player3">Player 3</th>
+            <td class="score" id="p3Total"></td>
+          </tr>
+          <tr>
+            <th id="player4">Player 4</th>
+            <td class="score" id="p4Total"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <footer>Copyright &copy; 2019, Irene Smith. All rights reserved.</footer>
+  </main>
+
+  <!-- End of content -->
+  <script type="text/javascript" src="../js/dice.js"></script>
+  <script src="js/yacht.js"></script>
+</body>
+</html>

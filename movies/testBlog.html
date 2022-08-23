@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Our Videos</title>
+	
+	<meta name="description" content="An example of using MongoDB Stitch by Irene Smith.">
+	<meta name="author" content="Irene Smith">
+
+	<link href="https://fonts.googleapis.com/css?family=Limelight" rel="stylesheet">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body onload="displayCommentsOnLoad()">
+	<h3>Aspirational blog post</h3>
+    <div id="content">
+      I like to write about technology, because I want to get
+      on the front page of hacker news (in a good way).
+    </div>
+    <hr>
+    <div id="comments"></div>
+	<hr>
+	<p>Add comment:</p>
+	<input id="new_comment"><input type="submit" onClick="addComment()">
+
+	<!-- End of Content -->
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://s3.amazonaws.com/stitch-sdks/js/library/v2/stable/stitch.min.js"></script>
+	<script src="js/comments.js"></script>
+</body>
+</html>

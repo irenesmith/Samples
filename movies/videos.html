@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Our Videos</title>
+	
+	<meta name="description" content="Examples of HTML, CSS, and JavaScript apps created by Irene Smith.">
+	<meta name="author" content="Irene Smith">
+
+	<link href="https://fonts.googleapis.com/css?family=Heebo|Satisfy" rel="stylesheet">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<main>
+		<div id="movie-img">
+			<img src="img/theatre-29349.svg" />
+		</div>
+		<h1>Our Videos</h1>
+	    <div id="content">
+	    	<p>This is a list of the Movies and TV Shows we own. (The list is
+	    	not yet complete. There are <span id="videoCount"></span> videos in the database.)
+	    	Items with a check in the first column can also be streamed.</p>
+		</div>
+
+		<div>
+			<p><label>Search by Title: <input type="text" id="titleToFind"></label>&nbsp;<button id="searchTitle">Search</button></p>
+		</div>
+
+	    <table id="videoTable">
+	    	<thead>
+		    	<tr>
+		    		<th></th>
+		    		<th>Title</th>
+		    		<th>Director</th>
+		    		<th style="width:4em;">Format</th>
+		    		<th>Year</th>
+		    		<th>Genre</th>
+		    		<th>Owner</th>
+		    	</tr>
+		    </thead>
+		    <tbody id="videos">
+	    	</tbody>
+	    </table>
+	</main>
+
+	<!-- End of Content -->
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://s3.amazonaws.com/stitch-sdks/js/library/v2/stable/stitch.min.js"></script>
+	<script src="js/videos.js"></script>
+</body>
+</html>

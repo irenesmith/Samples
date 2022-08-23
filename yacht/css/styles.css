@@ -1,0 +1,195 @@
+:root {
+  --color-background: #fff;
+  --color-text: #333;
+  --color-highlight: #077;
+  --color-background-active: darkblue;
+  --color-active: white;
+  
+  --max-width: 1024px;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-highlight);
+  color: var(--color-text);
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rolls {
+  text-align:center;
+  vertical-align: middle;
+  align-self: center;
+}
+
+main {
+  background-color: var(--color-background);
+  margin: 0 auto;
+  max-width: var(--max-width);
+  padding: 1em;
+  width: 80%;
+}
+
+h1, h2 {
+  color: var(--color-highlight);
+}
+
+h1 {
+  letter-spacing: 1px;
+  text-align: center;
+  word-spacing: 2px;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+.game-board {
+  border: 1px solid var(--color-text);
+  border-collapse: collapse;
+  display: table;
+  margin: 1rem 5rem;
+  width: 50%;
+}
+
+thead td {
+  border: 1px solid var(--color-text);
+  padding: 0.2rem;
+  text-align: center;
+}
+
+.score {
+  border: 1px solid var(--color-text);
+  padding: 0.2rem;
+  text-align: right;
+  width: 3rem;
+}
+
+th {
+  border: 1px solid var(--color-text);
+  padding: 0.2rem;
+  text-align: right;
+  width: 40%;
+}
+
+.player-list {
+  border: 1px solid var(--color-text);
+  border-collapse: collapse;
+  display: table;
+  margin: 1rem 5rem;
+  width: 25%;
+}
+
+.player-list th {
+  font-weight: bold;
+  width: 30%;
+}
+
+.player-list td {
+  width: 20%;
+}
+
+#game {
+  display: flex;
+}
+
+.active {
+  background-color: var(--color-background-active);
+  color: var(--color-active);
+}
+
+.center-button {
+  border: 1px solid var(--color-text);
+  border-radius: 5px;
+  display: block;
+  margin: 0.5rem auto;
+  height: 2rem;
+  width: 7rem;
+}
+
+#dice-cup {
+  align-self: center;
+  display: flex;
+  justify-content: space-around;
+  justify-self: center;
+  width: 50%;
+}
+
+.die {
+  border: 3px solid transparent;
+  height: 4rem;
+  margin: 0.5rem;
+  width: 4rem;
+}
+
+.keep {
+  border: 3px solid var(--color-highlight);
+  height: 4rem;
+  margin: 0.5rem;
+  width: 4rem;
+}
+
+#splash {
+  height: auto;
+  left:25vw;
+  position: absolute;
+  top: 5vh;
+  width: 50vw;
+  z-index: 999;
+}
+
+.splash-on {
+  display: block;
+}
+
+.splash-off {
+  display: none;
+}
+
+#userInfo {
+  margin: 1em auto;
+  padding: 1em;
+}
+
+#userInfo input {
+  margin: 0.5rem;
+  padding: 3px;
+}
+
+#userInfo input[type='number'] {
+  text-align: right;
+  width: 3rem;
+}
+
+#userInfo button {
+  border: 1px solid #333;
+  display: block;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+
+@media screen and (max-width: 700px) {
+  .player-list, .game-board {
+    margin: 1rem 2rem;
+  }
+}
