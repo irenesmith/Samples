@@ -14,7 +14,7 @@ on MDN Web Docs.
   a modal dialog box over the web page. The tutorial is in index.html.
 
 - **BeginningWebDevelopment** - is a Microsoft Word document that (in this
-  repo) disccuses the parts of an HTML page. The articles were written early
+  repo) discusses the parts of an HTML page. The articles were written early
   this year as part of a potential book on web development. There is also a PDF
   copy of the document.
 
