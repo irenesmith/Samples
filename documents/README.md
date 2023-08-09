@@ -10,11 +10,11 @@ The documents included here are:
   the SQLResultSet class using Visual Basic. It was written for Microsoft when I was
   a member of the SQL Server documentation team.
 - **BeginningWebDevelopment.docx** is a Microsoft Word document that (in this
-  repo) disccuses the parts of an HTML page. The articles were written early
+  repo) discusses the parts of an HTML page. The articles were written early
   this year as part of a potential book on web development. Thereis also a PDF
   copy of the document.
 - **Discussion_Forums_Guide.docx** is a Microsoft Word document that describes the use of
-  the discussion formats on the Universty of Phoenix website. The document was created
+  the discussion formats on the University of Phoenix website. The document was created
   as part of a course on Technical Writing.
 - **Preparing_Code_For_Automated_Design_Spec_Tools.pdf** is a PDF document that describes
   the process that developers needed to follow to prepare their code for the documentation
